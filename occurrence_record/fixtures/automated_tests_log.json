@@ -1,0 +1,59 @@
+[
+    {
+        "model": "core.Log",
+        "pk": 1,
+        "fields": {
+            "field_pk": 1, 
+            "table_name": "OCCURRENCE",
+            "action_type": "UPDATE", 
+            "old_value": "{'id_occurrence': '41', 'applied_protection': '2', 'occurrence_type': '2', 'occurrence_cause': '22', 'company': '10124', 'electrical_grouping': '24', 'responsible': 'Ian', 'phone': '123123-1231', 'cellphone': '1231231-2321', 'carrier': '1', 'occurrence_date': '2020-12-14T17:18:50.757Z', 'occurrence_duration': '46', 'key_circuit_breaker_identifier': 'A323', 'total_stop_time': '45', 'description': 'Teste', 'created_date': '2020-12-14T17:18:50.757Z', 'status': 'S', 'situation': 'draft'}",
+            "new_value": "{'id_occurrence': '41', 'applied_protection': '2', 'occurrence_type': '2', 'occurrence_cause': '22', 'company': '10124', 'electrical_grouping': '24', 'responsible': 'Ian', 'phone': '123123-1231', 'cellphone': '1231231-2321', 'carrier': '1', 'occurrence_date': '2020-12-14T17:18:50.757Z', 'occurrence_duration': '46.0', 'key_circuit_breaker_identifier': 'A323', 'total_stop_time': '45.0', 'description': 'Teste', 'created_date': '2020-12-14T17:18:50.757Z', 'status': 'N', 'situation': 'draft'}", 
+            "observation": "AutomatedUpdated1", 
+            "date": "2020-12-14T17:18:50.757000Z",
+            "user": "test_user - test_user"       
+            }
+    },
+    {
+        "model": "core.Log",
+        "pk": 2,
+        "fields": {
+            "field_pk": 1, 
+            "table_name": "OCCURRENCE_PRODUCT",
+            "action_type": "UPDATE", 
+            "old_value": "{'id_occurrence_product': '1', 'occurrence': '1', 'product': '1', 'lost_production': 11.000000001, 'financial_loss': 96.000000001, 'status': 'S'}",
+            "new_value": "{'id_occurrence_product': '1', 'occurrence': '1', 'product': '1', 'lost_production': 50.000000001, 'financial_loss': 10.000000001, 'status': 'S'} ", 
+            "observation": "AutomatedUpdated1", 
+            "date": "2020-12-14T17:18:50.757000Z",
+            "user": "test_user - test_user"       
+            }
+    },
+    {
+        "model": "core.Log",
+        "pk": 3,
+        "fields": {
+            "field_pk": 1, 
+            "table_name": "OCCURRENCE_BUSINESS",
+            "action_type": "UPDATE", 
+            "old_value": "{'id_occurrence_business': '1', 'occurrence': '1', 'business': '2', 'status': 'S'}",
+            "new_value": "{'id_occurrence_business': '1', 'occurrence': '1', 'business': '1', 'status': 'S'} ", 
+            "observation": "AutomatedUpdated1", 
+            "date": "2020-12-14T17:18:50.757000Z",
+            "user": "test_user - test_user"       
+            }
+    },
+    {
+        "model": "core.Log",
+        "pk": 4,
+        "fields": {
+            "field_pk": 1, 
+            "table_name": "PQ_EVENTS_MANUAL",
+            "action_type": "UPDATE", 
+            "old_value": "{'id_manual_event': '1', 'occurrence': '1', 'gauge_point': '10065', 'event_type': '1', 'date': '2020-12-14T17:18:50.757000Z', 'duration': 10, 'magnitude': 12}",
+            "new_value": "{'id_manual_event': '1', 'occurrence': '1', 'gauge_point': '10065', 'event_type': '2', 'date': '2020-12-14T17:18:50.757000Z', 'duration': 12, 'magnitude': 11}", 
+            "observation": "AutomatedUpdated1", 
+            "date": "2020-12-14T17:18:50.757000Z",
+            "user": "test_user - test_user"       
+            }
+    }
+]
+

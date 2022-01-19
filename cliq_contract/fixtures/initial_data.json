@@ -1,0 +1,4396 @@
+[
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "4",
+    "fields": {
+        "id_vendor_profile": "4",
+        "id_buyer_profile": "10",
+        "id_contract": "8",
+        "id_ccee": "5",
+        "id_buyer_assets": "28",
+        "id_buyer_asset_items": "63",
+        "id_submarket": "8",
+        "ccee_type_contract": "kkkkk",
+        "transaction_type": "tipo trans",
+        "flexibility": "ponta",
+        "mwm_volume": "234.567800000",
+        "contractual_loss": "6.090000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "19",
+    "fields": {
+        "id_vendor_profile": "14",
+        "id_buyer_profile": "4",
+        "id_contract": "8",
+        "id_ccee": "5",
+        "id_buyer_assets": "28",
+        "id_buyer_asset_items": "63",
+        "id_submarket": "8",
+        "ccee_type_contract": "valeu",
+        "transaction_type": "trs type",
+        "flexibility": "ponta",
+        "mwm_volume": "12.345000000",
+        "contractual_loss": "0.990000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "25",
+    "fields": {
+        "id_vendor_profile": "14",
+        "id_buyer_profile": "4",
+        "id_contract": "7",
+        "id_ccee": "13",
+        "id_buyer_assets": "28",
+        "id_buyer_asset_items": "63",
+        "id_submarket": "8",
+        "ccee_type_contract": "Rod",
+        "transaction_type": "prdd",
+        "flexibility": "ponta",
+        "mwm_volume": "33.000000000",
+        "contractual_loss": "33.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "26",
+    "fields": {
+        "id_vendor_profile": "4",
+        "id_buyer_profile": "14",
+        "id_contract": "7",
+        "id_ccee": "5",
+        "id_buyer_assets": "28",
+        "id_buyer_asset_items": "63",
+        "id_submarket": "8",
+        "ccee_type_contract": "Olfo",
+        "transaction_type": "prdd",
+        "flexibility": "ponta",
+        "mwm_volume": "3.300000000",
+        "contractual_loss": "3.300000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "40",
+    "fields": {
+        "id_vendor_profile": "4",
+        "id_buyer_profile": "14",
+        "id_contract": "8",
+        "id_ccee": "5",
+        "id_buyer_assets": "28",
+        "id_buyer_asset_items": "63",
+        "id_submarket": "8",
+        "ccee_type_contract": "kkkkk",
+        "transaction_type": "tipo trans",
+        "flexibility": "ponta",
+        "mwm_volume": "234.567800000",
+        "contractual_loss": "6.090000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "41",
+    "fields": {
+        "id_vendor_profile": "4",
+        "id_buyer_profile": "14",
+        "id_contract": "8",
+        "id_ccee": "5",
+        "id_buyer_assets": "28",
+        "id_buyer_asset_items": "63",
+        "id_submarket": "8",
+        "ccee_type_contract": "xxxxx",
+        "transaction_type": "tipo trans",
+        "flexibility": "ponta",
+        "mwm_volume": "234.567800000",
+        "contractual_loss": "0.010000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "81",
+    "fields": {
+        "id_vendor_profile": "2",
+        "id_buyer_profile": "14",
+        "id_contract": "8",
+        "id_ccee": "5",
+        "id_buyer_assets": "28",
+        "id_buyer_asset_items": "63",
+        "id_submarket": "8",
+        "ccee_type_contract": "xxxxx",
+        "transaction_type": "tipo trans",
+        "flexibility": "ponta",
+        "mwm_volume": "234.567800000",
+        "contractual_loss": "0.010000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "82",
+    "fields": {
+        "id_vendor_profile": "2",
+        "id_buyer_profile": "1",
+        "id_contract": "12",
+        "id_ccee": "25",
+        "id_buyer_assets": "8",
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "100.000000000",
+        "contractual_loss": "10.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "83",
+    "fields": {
+        "id_vendor_profile": "3",
+        "id_buyer_profile": "1",
+        "id_contract": "12",
+        "id_ccee": "22",
+        "id_buyer_assets": "9",
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "PONTA",
+        "mwm_volume": "1000.000000000",
+        "contractual_loss": "10.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "84",
+    "fields": {
+        "id_vendor_profile": "3",
+        "id_buyer_profile": "1",
+        "id_contract": "12",
+        "id_ccee": "22",
+        "id_buyer_assets": "9",
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "PONTA",
+        "mwm_volume": "1000.000000000",
+        "contractual_loss": "10.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "85",
+    "fields": {
+        "id_vendor_profile": "7",
+        "id_buyer_profile": "1",
+        "id_contract": "12",
+        "id_ccee": "23",
+        "id_buyer_assets": "8",
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "ZERAR_COMPRADOR",
+        "flexibility": "PONTA",
+        "mwm_volume": "1000.000000000",
+        "contractual_loss": "10.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "86",
+    "fields": {
+        "id_vendor_profile": "5",
+        "id_buyer_profile": "1",
+        "id_contract": "12",
+        "id_ccee": "24",
+        "id_buyer_assets": "8",
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CCEAR",
+        "transaction_type": "ZERAR_VENDEDOR",
+        "flexibility": "PONTA",
+        "mwm_volume": "1000.000000000",
+        "contractual_loss": "10.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "87",
+    "fields": {
+        "id_vendor_profile": "7",
+        "id_buyer_profile": "1",
+        "id_contract": "12",
+        "id_ccee": "311",
+        "id_buyer_assets": "9",
+        "id_buyer_asset_items": null,
+        "id_submarket": "8",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "ZERAR_COMPRADOR",
+        "flexibility": "PONTA",
+        "mwm_volume": "9999.000000000",
+        "contractual_loss": "66.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "88",
+    "fields": {
+        "id_vendor_profile": "2",
+        "id_buyer_profile": "1",
+        "id_contract": "7",
+        "id_ccee": "603",
+        "id_buyer_assets": "8",
+        "id_buyer_asset_items": null,
+        "id_submarket": "8",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "888.000000000",
+        "contractual_loss": "88.000000000",
+        "status": "N"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "89",
+    "fields": {
+        "id_vendor_profile": "2",
+        "id_buyer_profile": "1",
+        "id_contract": "7",
+        "id_ccee": "604",
+        "id_buyer_assets": "8",
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "123.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "90",
+    "fields": {
+        "id_vendor_profile": "4",
+        "id_buyer_profile": "1",
+        "id_contract": "7",
+        "id_ccee": "606",
+        "id_buyer_assets": "8",
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "4.000000000",
+        "contractual_loss": "4.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "91",
+    "fields": {
+        "id_vendor_profile": "4",
+        "id_buyer_profile": "1",
+        "id_contract": "7",
+        "id_ccee": "622",
+        "id_buyer_assets": "8",
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "12.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "92",
+    "fields": {
+        "id_vendor_profile": "5",
+        "id_buyer_profile": "1",
+        "id_contract": "7",
+        "id_ccee": "629",
+        "id_buyer_assets": "8",
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "555.000000000",
+        "contractual_loss": "5.000000000",
+        "status": "N"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "93",
+    "fields": {
+        "id_vendor_profile": "7",
+        "id_buyer_profile": "1",
+        "id_contract": "7",
+        "id_ccee": "669",
+        "id_buyer_assets": "8",
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "1000.000000000",
+        "contractual_loss": "10.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "94",
+    "fields": {
+        "id_vendor_profile": "5",
+        "id_buyer_profile": "1",
+        "id_contract": "7",
+        "id_ccee": "671",
+        "id_buyer_assets": "8",
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "1000.000000000",
+        "contractual_loss": "10.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "95",
+    "fields": {
+        "id_vendor_profile": "7",
+        "id_buyer_profile": "1",
+        "id_contract": "7",
+        "id_ccee": "672",
+        "id_buyer_assets": "8",
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "100.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "96",
+    "fields": {
+        "id_vendor_profile": "2",
+        "id_buyer_profile": "1",
+        "id_contract": "7",
+        "id_ccee": "673",
+        "id_buyer_assets": "8",
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "1000.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "97",
+    "fields": {
+        "id_vendor_profile": "4",
+        "id_buyer_profile": "7",
+        "id_contract": "8",
+        "id_ccee": "685",
+        "id_buyer_assets": "184",
+        "id_buyer_asset_items": "127",
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "1000.000000000",
+        "contractual_loss": "1000.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "98",
+    "fields": {
+        "id_vendor_profile": "5",
+        "id_buyer_profile": "4",
+        "id_contract": "8",
+        "id_ccee": "686",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": "127",
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "1000.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "99",
+    "fields": {
+        "id_vendor_profile": "2",
+        "id_buyer_profile": "10",
+        "id_contract": "8",
+        "id_ccee": "702",
+        "id_buyer_assets": "28",
+        "id_buyer_asset_items": "63",
+        "id_submarket": "8",
+        "ccee_type_contract": "xxxxx",
+        "transaction_type": "tipo trans",
+        "flexibility": "ponta",
+        "mwm_volume": "234.567800000",
+        "contractual_loss": "0.010000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "100",
+    "fields": {
+        "id_vendor_profile": "2",
+        "id_buyer_profile": "11",
+        "id_contract": "8",
+        "id_ccee": "788",
+        "id_buyer_assets": "184",
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "3.000000000",
+        "contractual_loss": "3.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "101",
+    "fields": {
+        "id_vendor_profile": "63",
+        "id_buyer_profile": "63",
+        "id_contract": "60",
+        "id_ccee": "812",
+        "id_buyer_assets": "163",
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "3.000000000",
+        "contractual_loss": "3.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "102",
+    "fields": {
+        "id_vendor_profile": "63",
+        "id_buyer_profile": "63",
+        "id_contract": "60",
+        "id_ccee": "813",
+        "id_buyer_assets": "216",
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "3.000000000",
+        "contractual_loss": "7.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "103",
+    "fields": {
+        "id_vendor_profile": "63",
+        "id_buyer_profile": "63",
+        "id_contract": "60",
+        "id_ccee": "814",
+        "id_buyer_assets": "163",
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "2.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "104",
+    "fields": {
+        "id_vendor_profile": "63",
+        "id_buyer_profile": "64",
+        "id_contract": "60",
+        "id_ccee": "816",
+        "id_buyer_assets": "184",
+        "id_buyer_asset_items": null,
+        "id_submarket": "8",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "105",
+    "fields": {
+        "id_vendor_profile": "68",
+        "id_buyer_profile": "44",
+        "id_contract": "71",
+        "id_ccee": "819",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": "130",
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "2.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "106",
+    "fields": {
+        "id_vendor_profile": "40",
+        "id_buyer_profile": "44",
+        "id_contract": "72",
+        "id_ccee": "820",
+        "id_buyer_assets": "190",
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "107",
+    "fields": {
+        "id_vendor_profile": "40",
+        "id_buyer_profile": "44",
+        "id_contract": "72",
+        "id_ccee": "821",
+        "id_buyer_assets": "190",
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "108",
+    "fields": {
+        "id_vendor_profile": "40",
+        "id_buyer_profile": "44",
+        "id_contract": "72",
+        "id_ccee": "822",
+        "id_buyer_assets": "190",
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "109",
+    "fields": {
+        "id_vendor_profile": "40",
+        "id_buyer_profile": "44",
+        "id_contract": "73",
+        "id_ccee": "825",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": "130",
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "PONTA",
+        "mwm_volume": "5.000000000",
+        "contractual_loss": "5.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "111",
+    "fields": {
+        "id_vendor_profile": "66",
+        "id_buyer_profile": "68",
+        "id_contract": "77",
+        "id_ccee": "827",
+        "id_buyer_assets": "217",
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "112",
+    "fields": {
+        "id_vendor_profile": "40",
+        "id_buyer_profile": "40",
+        "id_contract": "78",
+        "id_ccee": "828",
+        "id_buyer_assets": "216",
+        "id_buyer_asset_items": null,
+        "id_submarket": "8",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "113",
+    "fields": {
+        "id_vendor_profile": "44",
+        "id_buyer_profile": "68",
+        "id_contract": "78",
+        "id_ccee": "829",
+        "id_buyer_assets": "190",
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "2.000000000",
+        "contractual_loss": "2.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "114",
+    "fields": {
+        "id_vendor_profile": "40",
+        "id_buyer_profile": "40",
+        "id_contract": "80",
+        "id_ccee": "846",
+        "id_buyer_assets": "217",
+        "id_buyer_asset_items": null,
+        "id_submarket": "8",
+        "ccee_type_contract": "CCEAR",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "CONVENCIONAL",
+        "mwm_volume": "2.000000000",
+        "contractual_loss": "2.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "115",
+    "fields": {
+        "id_vendor_profile": "69",
+        "id_buyer_profile": "69",
+        "id_contract": "80",
+        "id_ccee": "847",
+        "id_buyer_assets": "163",
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "3.000000000",
+        "contractual_loss": "3.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "116",
+    "fields": {
+        "id_vendor_profile": "44",
+        "id_buyer_profile": "44",
+        "id_contract": "91",
+        "id_ccee": "848",
+        "id_buyer_assets": "184",
+        "id_buyer_asset_items": null,
+        "id_submarket": "8",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "2.000000000",
+        "contractual_loss": "2.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "117",
+    "fields": {
+        "id_vendor_profile": "73",
+        "id_buyer_profile": "73",
+        "id_contract": "92",
+        "id_ccee": "849",
+        "id_buyer_assets": "221",
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CCEAR",
+        "transaction_type": "ZERAR_COMPRADOR",
+        "flexibility": "CONVENCIONAL",
+        "mwm_volume": "2.000000000",
+        "contractual_loss": "2.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "118",
+    "fields": {
+        "id_vendor_profile": "79",
+        "id_buyer_profile": "79",
+        "id_contract": "79",
+        "id_ccee": "853",
+        "id_buyer_assets": "223",
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CCEAR",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "9877.000000000",
+        "contractual_loss": "3.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "119",
+    "fields": {
+        "id_vendor_profile": "79",
+        "id_buyer_profile": "79",
+        "id_contract": "99",
+        "id_ccee": "856",
+        "id_buyer_assets": "222",
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "PONTA",
+        "mwm_volume": "897.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "120",
+    "fields": {
+        "id_vendor_profile": "79",
+        "id_buyer_profile": "75",
+        "id_contract": "100",
+        "id_ccee": "857",
+        "id_buyer_assets": "223",
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "89000.000000000",
+        "contractual_loss": "3.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "121",
+    "fields": {
+        "id_vendor_profile": "67",
+        "id_buyer_profile": "67",
+        "id_contract": "106",
+        "id_ccee": "864",
+        "id_buyer_assets": "190",
+        "id_buyer_asset_items": null,
+        "id_submarket": "8",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "122",
+    "fields": {
+        "id_vendor_profile": "40",
+        "id_buyer_profile": "40",
+        "id_contract": "107",
+        "id_ccee": "865",
+        "id_buyer_assets": "190",
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "2.000000000",
+        "contractual_loss": "2.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "123",
+    "fields": {
+        "id_vendor_profile": "79",
+        "id_buyer_profile": "75",
+        "id_contract": "109",
+        "id_ccee": "867",
+        "id_buyer_assets": "223",
+        "id_buyer_asset_items": null,
+        "id_submarket": "8",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "ZERAR_COMPRADOR",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "888.000000000",
+        "contractual_loss": "3.000000000",
+        "status": "N"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "124",
+    "fields": {
+        "id_vendor_profile": "79",
+        "id_buyer_profile": "75",
+        "id_contract": "109",
+        "id_ccee": "868",
+        "id_buyer_assets": "222",
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAR",
+        "transaction_type": "ZERAR_VENDEDOR",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "7777.000000000",
+        "contractual_loss": "3.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "125",
+    "fields": {
+        "id_vendor_profile": "40",
+        "id_buyer_profile": "40",
+        "id_contract": "138",
+        "id_ccee": "874",
+        "id_buyer_assets": "216",
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "2.000000000",
+        "contractual_loss": "2.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "126",
+    "fields": {
+        "id_vendor_profile": "69",
+        "id_buyer_profile": "67",
+        "id_contract": "138",
+        "id_ccee": "875",
+        "id_buyer_assets": "184",
+        "id_buyer_asset_items": null,
+        "id_submarket": "8",
+        "ccee_type_contract": "CCEAR",
+        "transaction_type": "ZERAR_VENDEDOR",
+        "flexibility": "CONVENCIONAL",
+        "mwm_volume": "3.000000000",
+        "contractual_loss": "3.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "127",
+    "fields": {
+        "id_vendor_profile": "67",
+        "id_buyer_profile": "67",
+        "id_contract": "139",
+        "id_ccee": "876",
+        "id_buyer_assets": "190",
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "ZERAR_COMPRADOR",
+        "flexibility": "CONVENCIONAL",
+        "mwm_volume": "8.000000000",
+        "contractual_loss": "12.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "128",
+    "fields": {
+        "id_vendor_profile": "67",
+        "id_buyer_profile": "44",
+        "id_contract": "139",
+        "id_ccee": "877",
+        "id_buyer_assets": "190",
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "ZERAR_COMPRADOR",
+        "flexibility": "CONVENCIONAL",
+        "mwm_volume": "4.000000000",
+        "contractual_loss": "4.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "129",
+    "fields": {
+        "id_vendor_profile": "79",
+        "id_buyer_profile": "75",
+        "id_contract": "141",
+        "id_ccee": "879",
+        "id_buyer_assets": "223",
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "PONTA",
+        "mwm_volume": "888.000000000",
+        "contractual_loss": "88.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "130",
+    "fields": {
+        "id_vendor_profile": "79",
+        "id_buyer_profile": "75",
+        "id_contract": "141",
+        "id_ccee": "880",
+        "id_buyer_assets": "222",
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "878.000000000",
+        "contractual_loss": "99.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "131",
+    "fields": {
+        "id_vendor_profile": "79",
+        "id_buyer_profile": "75",
+        "id_contract": "142",
+        "id_ccee": "882",
+        "id_buyer_assets": "223",
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "887.000000000",
+        "contractual_loss": "999.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "132",
+    "fields": {
+        "id_vendor_profile": "79",
+        "id_buyer_profile": "75",
+        "id_contract": "142",
+        "id_ccee": "883",
+        "id_buyer_assets": "223",
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "8.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "133",
+    "fields": {
+        "id_vendor_profile": "44",
+        "id_buyer_profile": "68",
+        "id_contract": "139",
+        "id_ccee": "894",
+        "id_buyer_assets": "184",
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "12.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "134",
+    "fields": {
+        "id_vendor_profile": "79",
+        "id_buyer_profile": "75",
+        "id_contract": "151",
+        "id_ccee": "895",
+        "id_buyer_assets": "222",
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "ZERAR_COMPRADOR",
+        "flexibility": "CONVENCIONAL",
+        "mwm_volume": "76.000000000",
+        "contractual_loss": "99.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "135",
+    "fields": {
+        "id_vendor_profile": "44",
+        "id_buyer_profile": "67",
+        "id_contract": "157",
+        "id_ccee": "902",
+        "id_buyer_assets": "184",
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "136",
+    "fields": {
+        "id_vendor_profile": "40",
+        "id_buyer_profile": "40",
+        "id_contract": "158",
+        "id_ccee": "904",
+        "id_buyer_assets": "190",
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "137",
+    "fields": {
+        "id_vendor_profile": "44",
+        "id_buyer_profile": "44",
+        "id_contract": "159",
+        "id_ccee": "905",
+        "id_buyer_assets": "190",
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "138",
+    "fields": {
+        "id_vendor_profile": "79",
+        "id_buyer_profile": "75",
+        "id_contract": "160",
+        "id_ccee": "906",
+        "id_buyer_assets": "222",
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "10.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "139",
+    "fields": {
+        "id_vendor_profile": "79",
+        "id_buyer_profile": "75",
+        "id_contract": "166",
+        "id_ccee": "907",
+        "id_buyer_assets": "223",
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "CONVENCIONAL",
+        "mwm_volume": "200.000000000",
+        "contractual_loss": "10.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "140",
+    "fields": {
+        "id_vendor_profile": "40",
+        "id_buyer_profile": "40",
+        "id_contract": "167",
+        "id_ccee": "912",
+        "id_buyer_assets": "184",
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "5.000000000",
+        "contractual_loss": "5.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "141",
+    "fields": {
+        "id_vendor_profile": "44",
+        "id_buyer_profile": "44",
+        "id_contract": "167",
+        "id_ccee": "913",
+        "id_buyer_assets": "184",
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "5.000000000",
+        "contractual_loss": "5.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "142",
+    "fields": {
+        "id_vendor_profile": "67",
+        "id_buyer_profile": "67",
+        "id_contract": "168",
+        "id_ccee": "914",
+        "id_buyer_assets": "190",
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CCEAR",
+        "transaction_type": "ZERAR_COMPRADOR",
+        "flexibility": "CONVENCIONAL",
+        "mwm_volume": "5.500000000",
+        "contractual_loss": "3.500000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "143",
+    "fields": {
+        "id_vendor_profile": "68",
+        "id_buyer_profile": "68",
+        "id_contract": "168",
+        "id_ccee": "915",
+        "id_buyer_assets": "216",
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "ZERAR_VENDEDOR",
+        "flexibility": "CONVENCIONAL",
+        "mwm_volume": "5.100000000",
+        "contractual_loss": "2.100000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "144",
+    "fields": {
+        "id_vendor_profile": "74",
+        "id_buyer_profile": "76",
+        "id_contract": "169",
+        "id_ccee": "919",
+        "id_buyer_assets": "233",
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "145",
+    "fields": {
+        "id_vendor_profile": "74",
+        "id_buyer_profile": "76",
+        "id_contract": "169",
+        "id_ccee": "920",
+        "id_buyer_assets": "233",
+        "id_buyer_asset_items": null,
+        "id_submarket": "8",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "146",
+    "fields": {
+        "id_vendor_profile": "40",
+        "id_buyer_profile": "40",
+        "id_contract": "170",
+        "id_ccee": "921",
+        "id_buyer_assets": "184",
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "4.000000000",
+        "contractual_loss": "4.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "147",
+    "fields": {
+        "id_vendor_profile": "67",
+        "id_buyer_profile": "67",
+        "id_contract": "170",
+        "id_ccee": "922",
+        "id_buyer_assets": "190",
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "CONVENCIONAL",
+        "mwm_volume": "5.000000000",
+        "contractual_loss": "5.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "148",
+    "fields": {
+        "id_vendor_profile": "40",
+        "id_buyer_profile": "40",
+        "id_contract": "171",
+        "id_ccee": "939",
+        "id_buyer_assets": "184",
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "1.800000000",
+        "contractual_loss": "0.500000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "149",
+    "fields": {
+        "id_vendor_profile": "67",
+        "id_buyer_profile": "67",
+        "id_contract": "171",
+        "id_ccee": "940",
+        "id_buyer_assets": "190",
+        "id_buyer_asset_items": null,
+        "id_submarket": "8",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "4.800000000",
+        "contractual_loss": "0.800000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "150",
+    "fields": {
+        "id_vendor_profile": "44",
+        "id_buyer_profile": "44",
+        "id_contract": "172",
+        "id_ccee": "941",
+        "id_buyer_assets": "190",
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "4.000000000",
+        "contractual_loss": "4.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "151",
+    "fields": {
+        "id_vendor_profile": "74",
+        "id_buyer_profile": "74",
+        "id_contract": "173",
+        "id_ccee": "942",
+        "id_buyer_assets": "228",
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "152",
+    "fields": {
+        "id_vendor_profile": "40",
+        "id_buyer_profile": "40",
+        "id_contract": "176",
+        "id_ccee": "950",
+        "id_buyer_assets": "216",
+        "id_buyer_asset_items": null,
+        "id_submarket": "8",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "6.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "153",
+    "fields": {
+        "id_vendor_profile": "44",
+        "id_buyer_profile": "44",
+        "id_contract": "176",
+        "id_ccee": "951",
+        "id_buyer_assets": "163",
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "6.000000000",
+        "contractual_loss": "0.500000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "154",
+    "fields": {
+        "id_vendor_profile": "40",
+        "id_buyer_profile": "40",
+        "id_contract": "177",
+        "id_ccee": "964",
+        "id_buyer_assets": "217",
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "2.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "155",
+    "fields": {
+        "id_vendor_profile": "44",
+        "id_buyer_profile": "44",
+        "id_contract": "177",
+        "id_ccee": "967",
+        "id_buyer_assets": "163",
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "156",
+    "fields": {
+        "id_vendor_profile": "67",
+        "id_buyer_profile": "67",
+        "id_contract": "177",
+        "id_ccee": "968",
+        "id_buyer_assets": "216",
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CCEAR",
+        "transaction_type": "ZERAR_COMPRADOR",
+        "flexibility": "CONVENCIONAL",
+        "mwm_volume": "3.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "157",
+    "fields": {
+        "id_vendor_profile": "40",
+        "id_buyer_profile": "40",
+        "id_contract": "70",
+        "id_ccee": "1142",
+        "id_buyer_assets": "184",
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "158",
+    "fields": {
+        "id_vendor_profile": "44",
+        "id_buyer_profile": "44",
+        "id_contract": "70",
+        "id_ccee": "1143",
+        "id_buyer_assets": "184",
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "5.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "159",
+    "fields": {
+        "id_vendor_profile": "2",
+        "id_buyer_profile": "1",
+        "id_contract": "7",
+        "id_ccee": "1149",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "160",
+    "fields": {
+        "id_vendor_profile": "2",
+        "id_buyer_profile": "1",
+        "id_contract": "7",
+        "id_ccee": "1150",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "161",
+    "fields": {
+        "id_vendor_profile": "2",
+        "id_buyer_profile": "1",
+        "id_contract": "7",
+        "id_ccee": "1166",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "12.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "162",
+    "fields": {
+        "id_vendor_profile": "44",
+        "id_buyer_profile": "44",
+        "id_contract": "70",
+        "id_ccee": "1194",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "163",
+    "fields": {
+        "id_vendor_profile": "103",
+        "id_buyer_profile": "103",
+        "id_contract": "236",
+        "id_ccee": "1197",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "76.000000000",
+        "contractual_loss": "4.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "164",
+    "fields": {
+        "id_vendor_profile": "103",
+        "id_buyer_profile": "103",
+        "id_contract": "242",
+        "id_ccee": "1202",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": null,
+        "mwm_volume": "90.000000000",
+        "contractual_loss": "2.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "165",
+    "fields": {
+        "id_vendor_profile": "103",
+        "id_buyer_profile": "103",
+        "id_contract": "242",
+        "id_ccee": "1205",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": null,
+        "mwm_volume": "55.000000000",
+        "contractual_loss": null,
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "166",
+    "fields": {
+        "id_vendor_profile": "109",
+        "id_buyer_profile": "109",
+        "id_contract": "245",
+        "id_ccee": "1206",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CCEAR",
+        "transaction_type": "ZERAR_COMPRADOR",
+        "flexibility": null,
+        "mwm_volume": "9.000000000",
+        "contractual_loss": "9.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "167",
+    "fields": {
+        "id_vendor_profile": "70",
+        "id_buyer_profile": "70",
+        "id_contract": "252",
+        "id_ccee": "1264",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "168",
+    "fields": {
+        "id_vendor_profile": "70",
+        "id_buyer_profile": "70",
+        "id_contract": "253",
+        "id_ccee": "1265",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "169",
+    "fields": {
+        "id_vendor_profile": "40",
+        "id_buyer_profile": "44",
+        "id_contract": "256",
+        "id_ccee": "1276",
+        "id_buyer_assets": "163",
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "170",
+    "fields": {
+        "id_vendor_profile": "101",
+        "id_buyer_profile": "101",
+        "id_contract": "260",
+        "id_ccee": "1295",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": null,
+        "mwm_volume": "2.000000000",
+        "contractual_loss": "2.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "171",
+    "fields": {
+        "id_vendor_profile": "72",
+        "id_buyer_profile": "109",
+        "id_contract": "268",
+        "id_ccee": "1296",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "BALANCEADO",
+        "flexibility": null,
+        "mwm_volume": "54.000000000",
+        "contractual_loss": "5.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "172",
+    "fields": {
+        "id_vendor_profile": "40",
+        "id_buyer_profile": "40",
+        "id_contract": "270",
+        "id_ccee": "1309",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "2.000000000",
+        "contractual_loss": "1.500000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "173",
+    "fields": {
+        "id_vendor_profile": "44",
+        "id_buyer_profile": "44",
+        "id_contract": "270",
+        "id_ccee": "1310",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "3.000000000",
+        "contractual_loss": "1.500000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "174",
+    "fields": {
+        "id_vendor_profile": "67",
+        "id_buyer_profile": "67",
+        "id_contract": "270",
+        "id_ccee": "1311",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CCEAR",
+        "transaction_type": "ZERAR_COMPRADOR",
+        "flexibility": "CONVENCIONAL",
+        "mwm_volume": "3.000000000",
+        "contractual_loss": "1.200000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "175",
+    "fields": {
+        "id_vendor_profile": "67",
+        "id_buyer_profile": "67",
+        "id_contract": "271",
+        "id_ccee": "1312",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "CONVENCIONAL",
+        "mwm_volume": "4.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "176",
+    "fields": {
+        "id_vendor_profile": "42",
+        "id_buyer_profile": null,
+        "id_contract": "296",
+        "id_ccee": "1334",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "12.000000000",
+        "contractual_loss": "2.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "177",
+    "fields": {
+        "id_vendor_profile": "42",
+        "id_buyer_profile": "90",
+        "id_contract": "297",
+        "id_ccee": "1335",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "3.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "178",
+    "fields": {
+        "id_vendor_profile": "42",
+        "id_buyer_profile": "90",
+        "id_contract": "297",
+        "id_ccee": "1336",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "3.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "179",
+    "fields": {
+        "id_vendor_profile": "42",
+        "id_buyer_profile": "90",
+        "id_contract": "8",
+        "id_ccee": "1340",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "3.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "180",
+    "fields": {
+        "id_vendor_profile": "42",
+        "id_buyer_profile": "90",
+        "id_contract": "8",
+        "id_ccee": "1341",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "3.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "181",
+    "fields": {
+        "id_vendor_profile": "161",
+        "id_buyer_profile": "160",
+        "id_contract": "298",
+        "id_ccee": "1346",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "BALANCEADO",
+        "flexibility": null,
+        "mwm_volume": "5.000000000",
+        "contractual_loss": null,
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "182",
+    "fields": {
+        "id_vendor_profile": "161",
+        "id_buyer_profile": "160",
+        "id_contract": "298",
+        "id_ccee": "1347",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "ZERAR_COMPRADOR",
+        "flexibility": null,
+        "mwm_volume": "6.000000000",
+        "contractual_loss": null,
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "183",
+    "fields": {
+        "id_vendor_profile": "42",
+        "id_buyer_profile": "90",
+        "id_contract": "270",
+        "id_ccee": "1365",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "7.000000000",
+        "contractual_loss": "3.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "184",
+    "fields": {
+        "id_vendor_profile": "42",
+        "id_buyer_profile": "90",
+        "id_contract": "270",
+        "id_ccee": "1366",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "0E-9",
+        "contractual_loss": "3.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "185",
+    "fields": {
+        "id_vendor_profile": "42",
+        "id_buyer_profile": "90",
+        "id_contract": "270",
+        "id_ccee": "1367",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "0E-9",
+        "contractual_loss": "3.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "186",
+    "fields": {
+        "id_vendor_profile": "42",
+        "id_buyer_profile": "90",
+        "id_contract": "270",
+        "id_ccee": "1368",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "3.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "187",
+    "fields": {
+        "id_vendor_profile": "42",
+        "id_buyer_profile": "90",
+        "id_contract": "270",
+        "id_ccee": "1369",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "3.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "188",
+    "fields": {
+        "id_vendor_profile": "42",
+        "id_buyer_profile": "90",
+        "id_contract": "270",
+        "id_ccee": "1370",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "3.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "189",
+    "fields": {
+        "id_vendor_profile": "166",
+        "id_buyer_profile": "167",
+        "id_contract": "327",
+        "id_ccee": "1377",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": null,
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "190",
+    "fields": {
+        "id_vendor_profile": "166",
+        "id_buyer_profile": "167",
+        "id_contract": "330",
+        "id_ccee": "1380",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CCEAR",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "191",
+    "fields": {
+        "id_vendor_profile": "166",
+        "id_buyer_profile": "167",
+        "id_contract": "345",
+        "id_ccee": "1386",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CCEAR",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "2.000000000",
+        "contractual_loss": "3.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "192",
+    "fields": {
+        "id_vendor_profile": "166",
+        "id_buyer_profile": "167",
+        "id_contract": "345",
+        "id_ccee": "1387",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "2.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "193",
+    "fields": {
+        "id_vendor_profile": "166",
+        "id_buyer_profile": "167",
+        "id_contract": "346",
+        "id_ccee": "1388",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "CONVENCIONAL",
+        "mwm_volume": "2.000000000",
+        "contractual_loss": "2.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "194",
+    "fields": {
+        "id_vendor_profile": "40",
+        "id_buyer_profile": "44",
+        "id_contract": "352",
+        "id_ccee": "1394",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.300000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "195",
+    "fields": {
+        "id_vendor_profile": "44",
+        "id_buyer_profile": "65",
+        "id_contract": "353",
+        "id_ccee": "1395",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "0.320000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "196",
+    "fields": {
+        "id_vendor_profile": "189",
+        "id_buyer_profile": "190",
+        "id_contract": "371",
+        "id_ccee": "1404",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "93.000000000",
+        "contractual_loss": "2.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "197",
+    "fields": {
+        "id_vendor_profile": "109",
+        "id_buyer_profile": "109",
+        "id_contract": "262",
+        "id_ccee": "1407",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAR",
+        "transaction_type": "ZERAR_COMPRADOR",
+        "flexibility": null,
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "198",
+    "fields": {
+        "id_vendor_profile": "167",
+        "id_buyer_profile": "166",
+        "id_contract": "377",
+        "id_ccee": "1408",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": null,
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "2.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "199",
+    "fields": {
+        "id_vendor_profile": "167",
+        "id_buyer_profile": "166",
+        "id_contract": "378",
+        "id_ccee": "1409",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": null,
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "5.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "200",
+    "fields": {
+        "id_vendor_profile": "68",
+        "id_buyer_profile": "67",
+        "id_contract": "256",
+        "id_ccee": "1416",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "2.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "201",
+    "fields": {
+        "id_vendor_profile": "95",
+        "id_buyer_profile": "95",
+        "id_contract": "398",
+        "id_ccee": "1417",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "9.000000000",
+        "contractual_loss": "3.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "202",
+    "fields": {
+        "id_vendor_profile": "191",
+        "id_buyer_profile": "166",
+        "id_contract": "400",
+        "id_ccee": "1419",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "203",
+    "fields": {
+        "id_vendor_profile": "40",
+        "id_buyer_profile": "40",
+        "id_contract": "399",
+        "id_ccee": "1425",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "5.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "204",
+    "fields": {
+        "id_vendor_profile": "192",
+        "id_buyer_profile": "192",
+        "id_contract": "414",
+        "id_ccee": "1426",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": null,
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "205",
+    "fields": {
+        "id_vendor_profile": "67",
+        "id_buyer_profile": "67",
+        "id_contract": "399",
+        "id_ccee": "1428",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "N"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "206",
+    "fields": {
+        "id_vendor_profile": "44",
+        "id_buyer_profile": "44",
+        "id_contract": "434",
+        "id_ccee": "1430",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": null,
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "207",
+    "fields": {
+        "id_vendor_profile": "101",
+        "id_buyer_profile": "101",
+        "id_contract": "435",
+        "id_ccee": "1431",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": null,
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "2.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "208",
+    "fields": {
+        "id_vendor_profile": "146",
+        "id_buyer_profile": null,
+        "id_contract": "437",
+        "id_ccee": "1435",
+        "id_buyer_assets": "342",
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "ZERAR_VENDEDOR",
+        "flexibility": null,
+        "mwm_volume": "8.000000000",
+        "contractual_loss": "8.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "209",
+    "fields": {
+        "id_vendor_profile": "101",
+        "id_buyer_profile": "101",
+        "id_contract": "438",
+        "id_ccee": "1436",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "210",
+    "fields": {
+        "id_vendor_profile": "146",
+        "id_buyer_profile": "146",
+        "id_contract": "439",
+        "id_ccee": "1437",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "CONVENCIONAL",
+        "mwm_volume": "6.000000000",
+        "contractual_loss": "12.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "211",
+    "fields": {
+        "id_vendor_profile": "101",
+        "id_buyer_profile": "101",
+        "id_contract": "435",
+        "id_ccee": "1438",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": null,
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "212",
+    "fields": {
+        "id_vendor_profile": "101",
+        "id_buyer_profile": "101",
+        "id_contract": "435",
+        "id_ccee": "1439",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": null,
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "2.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "213",
+    "fields": {
+        "id_vendor_profile": "142",
+        "id_buyer_profile": "142",
+        "id_contract": "436",
+        "id_ccee": "1440",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "8",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "1.500088000",
+        "contractual_loss": "0.764500000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "214",
+    "fields": {
+        "id_vendor_profile": "161",
+        "id_buyer_profile": null,
+        "id_contract": "436",
+        "id_ccee": "1441",
+        "id_buyer_assets": "338",
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "3.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "215",
+    "fields": {
+        "id_vendor_profile": "195",
+        "id_buyer_profile": "195",
+        "id_contract": "440",
+        "id_ccee": "1442",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "ZERAR_COMPRADOR",
+        "flexibility": null,
+        "mwm_volume": "8.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "216",
+    "fields": {
+        "id_vendor_profile": "195",
+        "id_buyer_profile": "195",
+        "id_contract": "440",
+        "id_ccee": "1443",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": null,
+        "mwm_volume": "8.000000000",
+        "contractual_loss": "2.888800000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "217",
+    "fields": {
+        "id_vendor_profile": "193",
+        "id_buyer_profile": null,
+        "id_contract": "441",
+        "id_ccee": "1444",
+        "id_buyer_assets": "339",
+        "id_buyer_asset_items": null,
+        "id_submarket": "8",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "0.400000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "218",
+    "fields": {
+        "id_vendor_profile": "160",
+        "id_buyer_profile": "160",
+        "id_contract": "442",
+        "id_ccee": "1445",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CCEAR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": null,
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.002000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "219",
+    "fields": {
+        "id_vendor_profile": "160",
+        "id_buyer_profile": "191",
+        "id_contract": "442",
+        "id_ccee": "1446",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "ZERAR_COMPRADOR",
+        "flexibility": null,
+        "mwm_volume": "0.500000000",
+        "contractual_loss": null,
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "220",
+    "fields": {
+        "id_vendor_profile": "127",
+        "id_buyer_profile": "127",
+        "id_contract": "443",
+        "id_ccee": "1447",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": null,
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "2.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "221",
+    "fields": {
+        "id_vendor_profile": "132",
+        "id_buyer_profile": "130",
+        "id_contract": "444",
+        "id_ccee": "1448",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CCEAR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "N"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "222",
+    "fields": {
+        "id_vendor_profile": "132",
+        "id_buyer_profile": "130",
+        "id_contract": "444",
+        "id_ccee": "1449",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "ZERAR_VENDEDOR",
+        "flexibility": "CONVENCIONAL",
+        "mwm_volume": "7.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "223",
+    "fields": {
+        "id_vendor_profile": "132",
+        "id_buyer_profile": "127",
+        "id_contract": "445",
+        "id_ccee": "1450",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "8",
+        "ccee_type_contract": "CCEAR",
+        "transaction_type": "ZERAR_COMPRADOR",
+        "flexibility": null,
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "224",
+    "fields": {
+        "id_vendor_profile": "195",
+        "id_buyer_profile": "161",
+        "id_contract": "446",
+        "id_ccee": "1451",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "ZERAR_COMPRADOR",
+        "flexibility": null,
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "N"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "225",
+    "fields": {
+        "id_vendor_profile": "113",
+        "id_buyer_profile": "113",
+        "id_contract": "448",
+        "id_ccee": "1465",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "0.000001000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "226",
+    "fields": {
+        "id_vendor_profile": "111",
+        "id_buyer_profile": "111",
+        "id_contract": "449",
+        "id_ccee": "1466",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": null,
+        "mwm_volume": "0.000001000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "227",
+    "fields": {
+        "id_vendor_profile": "101",
+        "id_buyer_profile": "44",
+        "id_contract": "450",
+        "id_ccee": "1467",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "20.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "N"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "228",
+    "fields": {
+        "id_vendor_profile": "67",
+        "id_buyer_profile": "67",
+        "id_contract": "450",
+        "id_ccee": "1468",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "80.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "229",
+    "fields": {
+        "id_vendor_profile": "68",
+        "id_buyer_profile": "68",
+        "id_contract": "450",
+        "id_ccee": "1469",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "60.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "230",
+    "fields": {
+        "id_vendor_profile": "67",
+        "id_buyer_profile": "67",
+        "id_contract": "451",
+        "id_ccee": "1471",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "0.000001000",
+        "contractual_loss": "1.000000000",
+        "status": "N"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "231",
+    "fields": {
+        "id_vendor_profile": "68",
+        "id_buyer_profile": "68",
+        "id_contract": "451",
+        "id_ccee": "1477",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "0.000001000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "232",
+    "fields": {
+        "id_vendor_profile": "67",
+        "id_buyer_profile": "44",
+        "id_contract": "451",
+        "id_ccee": "1479",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "0.000001000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "233",
+    "fields": {
+        "id_vendor_profile": "67",
+        "id_buyer_profile": "68",
+        "id_contract": "451",
+        "id_ccee": "1480",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "0.000001000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "234",
+    "fields": {
+        "id_vendor_profile": "40",
+        "id_buyer_profile": "68",
+        "id_contract": "451",
+        "id_ccee": "1481",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "0.000001000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "235",
+    "fields": {
+        "id_vendor_profile": "44",
+        "id_buyer_profile": "68",
+        "id_contract": "451",
+        "id_ccee": "1482",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "0.000001000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "236",
+    "fields": {
+        "id_vendor_profile": "67",
+        "id_buyer_profile": "67",
+        "id_contract": "451",
+        "id_ccee": "1484",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "5.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "237",
+    "fields": {
+        "id_vendor_profile": "68",
+        "id_buyer_profile": "44",
+        "id_contract": "451",
+        "id_ccee": "1485",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "20.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "238",
+    "fields": {
+        "id_vendor_profile": "40",
+        "id_buyer_profile": "44",
+        "id_contract": "451",
+        "id_ccee": "1486",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "20.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "239",
+    "fields": {
+        "id_vendor_profile": "40",
+        "id_buyer_profile": "40",
+        "id_contract": "451",
+        "id_ccee": "1487",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "PONTA",
+        "mwm_volume": "20.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "240",
+    "fields": {
+        "id_vendor_profile": "192",
+        "id_buyer_profile": "193",
+        "id_contract": "458",
+        "id_ccee": "1488",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CCEAR",
+        "transaction_type": "ZERAR_COMPRADOR",
+        "flexibility": "CONVENCIONAL",
+        "mwm_volume": "3.000000000",
+        "contractual_loss": "8.000000000",
+        "status": "N"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "241",
+    "fields": {
+        "id_vendor_profile": "141",
+        "id_buyer_profile": null,
+        "id_contract": "459",
+        "id_ccee": "1489",
+        "id_buyer_assets": "341",
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": null,
+        "mwm_volume": "87.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "242",
+    "fields": {
+        "id_vendor_profile": "141",
+        "id_buyer_profile": "141",
+        "id_contract": "459",
+        "id_ccee": "1493",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": null,
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "5.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "243",
+    "fields": {
+        "id_vendor_profile": "141",
+        "id_buyer_profile": "141",
+        "id_contract": "459",
+        "id_ccee": "1494",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": null,
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "2.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "244",
+    "fields": {
+        "id_vendor_profile": "141",
+        "id_buyer_profile": "141",
+        "id_contract": "459",
+        "id_ccee": "1495",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": null,
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "2.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "245",
+    "fields": {
+        "id_vendor_profile": "141",
+        "id_buyer_profile": "141",
+        "id_contract": "459",
+        "id_ccee": "1496",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "BALANCEADO",
+        "flexibility": null,
+        "mwm_volume": "2.000000000",
+        "contractual_loss": "2.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "246",
+    "fields": {
+        "id_vendor_profile": "142",
+        "id_buyer_profile": "142",
+        "id_contract": "264",
+        "id_ccee": "1497",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": null,
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "20000.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "247",
+    "fields": {
+        "id_vendor_profile": "141",
+        "id_buyer_profile": "141",
+        "id_contract": "459",
+        "id_ccee": "1498",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": null,
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "2.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "248",
+    "fields": {
+        "id_vendor_profile": "160",
+        "id_buyer_profile": "191",
+        "id_contract": "465",
+        "id_ccee": "1508",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": null,
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "2.000000000",
+        "status": "N"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "249",
+    "fields": {
+        "id_vendor_profile": "193",
+        "id_buyer_profile": "193",
+        "id_contract": "469",
+        "id_ccee": "1509",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CCEAR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "25.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "250",
+    "fields": {
+        "id_vendor_profile": "146",
+        "id_buyer_profile": null,
+        "id_contract": "470",
+        "id_ccee": "1512",
+        "id_buyer_assets": "342",
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CCEAR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": null,
+        "mwm_volume": "8.000000000",
+        "contractual_loss": "1.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "251",
+    "fields": {
+        "id_vendor_profile": "146",
+        "id_buyer_profile": "146",
+        "id_contract": "470",
+        "id_ccee": "1513",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "BALANCEADO",
+        "flexibility": null,
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1777.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "252",
+    "fields": {
+        "id_vendor_profile": "146",
+        "id_buyer_profile": "149",
+        "id_contract": "481",
+        "id_ccee": "1514",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "1.666600000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "253",
+    "fields": {
+        "id_vendor_profile": "127",
+        "id_buyer_profile": "127",
+        "id_contract": "499",
+        "id_ccee": "1541",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "6",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "768000.000000000",
+        "contractual_loss": "12.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "254",
+    "fields": {
+        "id_vendor_profile": "127",
+        "id_buyer_profile": "127",
+        "id_contract": "499",
+        "id_ccee": "1542",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "CONVENCIONAL",
+        "mwm_volume": "834895746.000000000",
+        "contractual_loss": "1.888800000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "255",
+    "fields": {
+        "id_vendor_profile": "141",
+        "id_buyer_profile": "141",
+        "id_contract": "500",
+        "id_ccee": "1543",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CCEAL",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "0.005000000",
+        "contractual_loss": "0.400000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "256",
+    "fields": {
+        "id_vendor_profile": "132",
+        "id_buyer_profile": "132",
+        "id_contract": "501",
+        "id_ccee": "1544",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "9",
+        "ccee_type_contract": "CCEAR",
+        "transaction_type": "BALANCEADO",
+        "flexibility": "CONVENCIONAL",
+        "mwm_volume": "0.500000000",
+        "contractual_loss": "2.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.cliqcontract",
+    "pk": "257",
+    "fields": {
+        "id_vendor_profile": "160",
+        "id_buyer_profile": "208",
+        "id_contract": "502",
+        "id_ccee": "1545",
+        "id_buyer_assets": null,
+        "id_buyer_asset_items": null,
+        "id_submarket": "7",
+        "ccee_type_contract": "CBR",
+        "transaction_type": "VOLUME_FIXO",
+        "flexibility": "FORA PONTA",
+        "mwm_volume": "1.000000000",
+        "contractual_loss": "2.000000000",
+        "status": "S"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "4",
+    "fields": {
+        "id_seasonality": "122",
+        "id_contract_cliq": "40"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "5",
+    "fields": {
+        "id_seasonality": "123",
+        "id_contract_cliq": "40"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "6",
+    "fields": {
+        "id_seasonality": "124",
+        "id_contract_cliq": "40"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "8",
+    "fields": {
+        "id_seasonality": "126",
+        "id_contract_cliq": "41"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "9",
+    "fields": {
+        "id_seasonality": "127",
+        "id_contract_cliq": "41"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "10",
+    "fields": {
+        "id_seasonality": "128",
+        "id_contract_cliq": "41"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "11",
+    "fields": {
+        "id_seasonality": "144",
+        "id_contract_cliq": "81"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "12",
+    "fields": {
+        "id_seasonality": "145",
+        "id_contract_cliq": "81"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "13",
+    "fields": {
+        "id_seasonality": "146",
+        "id_contract_cliq": "81"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "15",
+    "fields": {
+        "id_seasonality": "200",
+        "id_contract_cliq": "86"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "16",
+    "fields": {
+        "id_seasonality": "207",
+        "id_contract_cliq": "87"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "17",
+    "fields": {
+        "id_seasonality": "208",
+        "id_contract_cliq": "87"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "18",
+    "fields": {
+        "id_seasonality": "238",
+        "id_contract_cliq": "91"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "19",
+    "fields": {
+        "id_seasonality": "276",
+        "id_contract_cliq": "93"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "20",
+    "fields": {
+        "id_seasonality": "277",
+        "id_contract_cliq": "94"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "21",
+    "fields": {
+        "id_seasonality": "278",
+        "id_contract_cliq": "95"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "22",
+    "fields": {
+        "id_seasonality": "289",
+        "id_contract_cliq": "99"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "23",
+    "fields": {
+        "id_seasonality": "290",
+        "id_contract_cliq": "99"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "24",
+    "fields": {
+        "id_seasonality": "292",
+        "id_contract_cliq": "99"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "25",
+    "fields": {
+        "id_seasonality": "294",
+        "id_contract_cliq": "4"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "26",
+    "fields": {
+        "id_seasonality": "349",
+        "id_contract_cliq": "100"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "27",
+    "fields": {
+        "id_seasonality": "350",
+        "id_contract_cliq": "101"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "28",
+    "fields": {
+        "id_seasonality": "351",
+        "id_contract_cliq": "102"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "29",
+    "fields": {
+        "id_seasonality": "352",
+        "id_contract_cliq": "103"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "30",
+    "fields": {
+        "id_seasonality": "353",
+        "id_contract_cliq": "104"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "31",
+    "fields": {
+        "id_seasonality": "354",
+        "id_contract_cliq": "107"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "32",
+    "fields": {
+        "id_seasonality": "358",
+        "id_contract_cliq": "109"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "33",
+    "fields": {
+        "id_seasonality": "360",
+        "id_contract_cliq": "112"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "34",
+    "fields": {
+        "id_seasonality": "361",
+        "id_contract_cliq": "114"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "35",
+    "fields": {
+        "id_seasonality": "362",
+        "id_contract_cliq": "115"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "36",
+    "fields": {
+        "id_seasonality": "363",
+        "id_contract_cliq": "116"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "37",
+    "fields": {
+        "id_seasonality": "364",
+        "id_contract_cliq": "117"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "38",
+    "fields": {
+        "id_seasonality": "365",
+        "id_contract_cliq": "118"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "39",
+    "fields": {
+        "id_seasonality": "366",
+        "id_contract_cliq": "119"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "40",
+    "fields": {
+        "id_seasonality": "367",
+        "id_contract_cliq": "120"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "41",
+    "fields": {
+        "id_seasonality": "368",
+        "id_contract_cliq": "122"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "42",
+    "fields": {
+        "id_seasonality": "369",
+        "id_contract_cliq": "123"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "43",
+    "fields": {
+        "id_seasonality": "370",
+        "id_contract_cliq": "124"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "44",
+    "fields": {
+        "id_seasonality": "371",
+        "id_contract_cliq": "124"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "45",
+    "fields": {
+        "id_seasonality": "374",
+        "id_contract_cliq": "130"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "46",
+    "fields": {
+        "id_seasonality": "375",
+        "id_contract_cliq": "131"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "47",
+    "fields": {
+        "id_seasonality": "376",
+        "id_contract_cliq": "132"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "48",
+    "fields": {
+        "id_seasonality": "377",
+        "id_contract_cliq": "134"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "49",
+    "fields": {
+        "id_seasonality": "378",
+        "id_contract_cliq": "134"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "50",
+    "fields": {
+        "id_seasonality": "380",
+        "id_contract_cliq": "127"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "51",
+    "fields": {
+        "id_seasonality": "384",
+        "id_contract_cliq": "138"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "52",
+    "fields": {
+        "id_seasonality": "385",
+        "id_contract_cliq": "139"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "53",
+    "fields": {
+        "id_seasonality": "386",
+        "id_contract_cliq": "140"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "54",
+    "fields": {
+        "id_seasonality": "387",
+        "id_contract_cliq": "142"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "55",
+    "fields": {
+        "id_seasonality": "393",
+        "id_contract_cliq": "149"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "56",
+    "fields": {
+        "id_seasonality": "396",
+        "id_contract_cliq": "152"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "57",
+    "fields": {
+        "id_seasonality": "403",
+        "id_contract_cliq": "154"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "58",
+    "fields": {
+        "id_seasonality": "512",
+        "id_contract_cliq": "157"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "59",
+    "fields": {
+        "id_seasonality": "522",
+        "id_contract_cliq": "160"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "60",
+    "fields": {
+        "id_seasonality": "549",
+        "id_contract_cliq": "161"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "61",
+    "fields": {
+        "id_seasonality": "556",
+        "id_contract_cliq": "162"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "62",
+    "fields": {
+        "id_seasonality": "607",
+        "id_contract_cliq": "165"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "63",
+    "fields": {
+        "id_seasonality": "608",
+        "id_contract_cliq": "166"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "64",
+    "fields": {
+        "id_seasonality": "653",
+        "id_contract_cliq": "167"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "65",
+    "fields": {
+        "id_seasonality": "654",
+        "id_contract_cliq": "168"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "66",
+    "fields": {
+        "id_seasonality": "674",
+        "id_contract_cliq": "171"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "67",
+    "fields": {
+        "id_seasonality": "684",
+        "id_contract_cliq": "172"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "68",
+    "fields": {
+        "id_seasonality": "694",
+        "id_contract_cliq": "177"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "69",
+    "fields": {
+        "id_seasonality": "695",
+        "id_contract_cliq": "179"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "70",
+    "fields": {
+        "id_seasonality": "696",
+        "id_contract_cliq": "180"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "71",
+    "fields": {
+        "id_seasonality": "697",
+        "id_contract_cliq": "181"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "72",
+    "fields": {
+        "id_seasonality": "702",
+        "id_contract_cliq": "183"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "73",
+    "fields": {
+        "id_seasonality": "703",
+        "id_contract_cliq": "184"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "74",
+    "fields": {
+        "id_seasonality": "704",
+        "id_contract_cliq": "185"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "75",
+    "fields": {
+        "id_seasonality": "705",
+        "id_contract_cliq": "186"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "76",
+    "fields": {
+        "id_seasonality": "706",
+        "id_contract_cliq": "187"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "77",
+    "fields": {
+        "id_seasonality": "707",
+        "id_contract_cliq": "188"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "78",
+    "fields": {
+        "id_seasonality": "708",
+        "id_contract_cliq": "189"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "79",
+    "fields": {
+        "id_seasonality": "711",
+        "id_contract_cliq": "190"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "80",
+    "fields": {
+        "id_seasonality": "712",
+        "id_contract_cliq": "191"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "81",
+    "fields": {
+        "id_seasonality": "713",
+        "id_contract_cliq": "192"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "82",
+    "fields": {
+        "id_seasonality": "714",
+        "id_contract_cliq": "193"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "83",
+    "fields": {
+        "id_seasonality": "719",
+        "id_contract_cliq": "194"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "84",
+    "fields": {
+        "id_seasonality": "720",
+        "id_contract_cliq": "196"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "85",
+    "fields": {
+        "id_seasonality": "721",
+        "id_contract_cliq": "197"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "86",
+    "fields": {
+        "id_seasonality": "722",
+        "id_contract_cliq": "198"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "87",
+    "fields": {
+        "id_seasonality": "723",
+        "id_contract_cliq": "199"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "88",
+    "fields": {
+        "id_seasonality": "725",
+        "id_contract_cliq": "200"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "89",
+    "fields": {
+        "id_seasonality": "729",
+        "id_contract_cliq": "201"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "90",
+    "fields": {
+        "id_seasonality": "731",
+        "id_contract_cliq": "202"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "91",
+    "fields": {
+        "id_seasonality": "732",
+        "id_contract_cliq": "203"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "92",
+    "fields": {
+        "id_seasonality": "733",
+        "id_contract_cliq": "205"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "93",
+    "fields": {
+        "id_seasonality": "734",
+        "id_contract_cliq": "206"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "94",
+    "fields": {
+        "id_seasonality": "735",
+        "id_contract_cliq": "207"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "95",
+    "fields": {
+        "id_seasonality": "736",
+        "id_contract_cliq": "212"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "96",
+    "fields": {
+        "id_seasonality": "737",
+        "id_contract_cliq": "213"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "97",
+    "fields": {
+        "id_seasonality": "738",
+        "id_contract_cliq": "213"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "98",
+    "fields": {
+        "id_seasonality": "739",
+        "id_contract_cliq": "215"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "99",
+    "fields": {
+        "id_seasonality": "740",
+        "id_contract_cliq": "217"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "100",
+    "fields": {
+        "id_seasonality": "741",
+        "id_contract_cliq": "219"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "101",
+    "fields": {
+        "id_seasonality": "742",
+        "id_contract_cliq": "220"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "102",
+    "fields": {
+        "id_seasonality": "743",
+        "id_contract_cliq": "221"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "103",
+    "fields": {
+        "id_seasonality": "744",
+        "id_contract_cliq": "222"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "104",
+    "fields": {
+        "id_seasonality": "754",
+        "id_contract_cliq": "227"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "105",
+    "fields": {
+        "id_seasonality": "755",
+        "id_contract_cliq": "228"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "106",
+    "fields": {
+        "id_seasonality": "756",
+        "id_contract_cliq": "229"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "107",
+    "fields": {
+        "id_seasonality": "759",
+        "id_contract_cliq": "242"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "108",
+    "fields": {
+        "id_seasonality": "760",
+        "id_contract_cliq": "243"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "109",
+    "fields": {
+        "id_seasonality": "761",
+        "id_contract_cliq": "243"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "110",
+    "fields": {
+        "id_seasonality": "762",
+        "id_contract_cliq": "244"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "111",
+    "fields": {
+        "id_seasonality": "763",
+        "id_contract_cliq": "245"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "112",
+    "fields": {
+        "id_seasonality": "764",
+        "id_contract_cliq": "246"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "113",
+    "fields": {
+        "id_seasonality": "765",
+        "id_contract_cliq": "247"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "114",
+    "fields": {
+        "id_seasonality": "766",
+        "id_contract_cliq": "105"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "115",
+    "fields": {
+        "id_seasonality": "774",
+        "id_contract_cliq": "249"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "116",
+    "fields": {
+        "id_seasonality": "775",
+        "id_contract_cliq": "250"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "117",
+    "fields": {
+        "id_seasonality": "777",
+        "id_contract_cliq": "253"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "118",
+    "fields": {
+        "id_seasonality": "778",
+        "id_contract_cliq": "254"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "119",
+    "fields": {
+        "id_seasonality": "779",
+        "id_contract_cliq": "255"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "120",
+    "fields": {
+        "id_seasonality": "780",
+        "id_contract_cliq": "256"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "121",
+    "fields": {
+        "id_seasonality": "781",
+        "id_contract_cliq": "257"
+    }
+},
+{
+    "model": "cliq_contract.seasonalitycliq",
+    "pk": "122",
+    "fields": {
+        "id_seasonality": "782",
+        "id_contract_cliq": "257"
+    }
+}
+]

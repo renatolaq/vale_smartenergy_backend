@@ -1,0 +1,241 @@
+[
+    {
+        "model": "occurrence_record.occurrence",
+        "pk": "1",
+        "fields": {
+            "responsible": "Automated1", 
+            "phone": "1231231231",
+            "cellphone": "12312312321", 
+            "carrier": "111", 
+            "occurrence_date": "2020-12-14T17:18:50.757000Z", 
+            "occurrence_duration": 46, 
+            "key_circuit_breaker_identifier": "A11",
+            "total_stop_time": 45, 
+            "description": "Automated_Test1",
+            "created_date": "2020-12-14T17:18:50.757000Z",
+            "status": "S",
+            "situation": "draft",
+            "company":10124,
+            "electrical_grouping": 24,
+            "applied_protection":2,
+            "occurrence_type": 2,
+            "occurrence_cause": 22
+            }
+    },
+    {
+        "model": "occurrence_record.occurrence",
+        "pk": "2",
+        "fields": {
+            "responsible": "Automated2", 
+            "phone": "234567891",
+            "cellphone": "23456789", 
+            "carrier": "222", 
+            "occurrence_date": "2020-12-14T17:18:50.757000Z", 
+            "occurrence_duration": 50, 
+            "key_circuit_breaker_identifier": "A12",
+            "total_stop_time": 22, 
+            "description": "Automated_Test2",
+            "created_date": "2020-12-14T17:18:50.757000Z",
+            "status": "S",
+            "situation": "draft",
+            "company": 10125,
+            "electrical_grouping": 13,
+            "applied_protection":1,
+            "occurrence_type": 3,
+            "occurrence_cause": 10
+            }
+    },
+    {
+        "model": "occurrence_record.occurrence",
+        "pk": "3",
+        "fields": {
+            "responsible": "Automated3", 
+            "phone": "34567891",
+            "cellphone": "34567891", 
+            "carrier": "333", 
+            "occurrence_date": "2020-12-14T17:18:50.757000Z", 
+            "occurrence_duration": 111, 
+            "key_circuit_breaker_identifier": "A13",
+            "total_stop_time": 2234, 
+            "description": "Automated_Test3",
+            "created_date": "2020-12-14T17:18:50.757000Z",
+            "status": "S",
+            "situation": "draft",
+            "company": 10140,
+            "electrical_grouping": 8,
+            "applied_protection": 2,
+            "occurrence_type": 1,
+            "occurrence_cause": 6
+            }
+    },
+    {
+        "model": "occurrence_record.Event",
+        "pk": "1",
+        "fields": {
+            "gauge_point": "20092",
+            "event_type": "1",
+            "utc_events_begin": "2020-01-05T01:47:00Z",
+            "utc_creation": "2020-01-05T08:00:00Z",
+            "events_duration": 7200.0,
+            "events_magnitude": 51243012.0,
+            "type_usage_contract": "1",
+            "occurrence": 2
+        }
+    },
+    {
+        "model": "occurrence_record.Event",
+        "pk": "2",
+        "fields": {
+            "gauge_point": "20092",
+            "event_type": "2",
+            "utc_events_begin": "2020-01-08T01:47:00Z",
+            "utc_creation": "2020-01-05T08:00:00Z",
+            "events_duration": 7200.0,
+            "events_magnitude": 51243012.0,
+            "type_usage_contract": "1",
+            "occurrence": 3
+        }
+    },
+    {
+        "model": "occurrence_record.Event",
+        "pk": "3",
+        "fields": {
+            "gauge_point": "20092",
+            "event_type": "2",
+            "utc_events_begin": "2020-01-10T11:35:00Z",
+            "utc_creation": "2020-01-05T08:00:00Z",
+            "events_duration": 7200.0,
+            "events_magnitude": 51243012.0,
+            "type_usage_contract": "1",
+            "occurrence": 3
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceAttachment",
+        "pk": "1",
+        "fields": {
+            "occurrence": "1",
+            "attachment_name": "Teste1",
+            "attachment_revision": "1.0",
+            "attachment_comments": "TesteAutomated1",
+            "attachment_path": "3fe74cd9-284d-483c-85e2-6465bbd21a98/Arquivo Teste.pdf"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceAttachment",
+        "pk": "2",
+        "fields": {
+            "occurrence": "2",
+            "attachment_name": "Teste2",
+            "attachment_revision": "1.0",
+            "attachment_comments": "TesteAutomated2",
+            "attachment_path": "1a4a326b-7863-40ed-bb54-1c507ae57957/C0s.txt"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceAttachment",
+        "pk": "3",
+        "fields": {
+            "occurrence": "2",
+            "attachment_name": "Teste3",
+            "attachment_revision": "2.0",
+            "attachment_comments": "TesteAutomated3",
+            "attachment_path": "074b6cc3-f59f-4bcc-83ba-5e3f7fe1827f/C0s.txt"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceAttachment",
+        "pk": "4",
+        "fields": {
+            "occurrence": "3",
+            "attachment_name": "Teste4",
+            "attachment_revision": "1.0",
+            "attachment_comments": "TesteAutomated4",
+            "attachment_path": "5aa5c04f-4a65-4aca-a988-33eef5e384a7/C0s.txt"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceProduct",
+        "pk": "1",
+        "fields": {
+            "occurrence": "1",
+            "product": "1",
+            "lost_production": "11111.000000000",
+            "financial_loss": "11111.000000000",
+            "status": "S"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceProduct",
+        "pk": "2",
+        "fields": {
+            "occurrence": "1",
+            "product": "1",
+            "lost_production": "22222.000000000",
+            "financial_loss": "22222.004400000",
+            "status": "S"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceProduct",
+        "pk": "3",
+        "fields": {
+            "occurrence": "2",
+            "product": "2",
+            "lost_production": "11111.000000000",
+            "financial_loss": "23332.000000000",
+            "status": "S"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceProduct",
+        "pk": "4",
+        "fields": {
+            "occurrence": "3",
+            "product": "2",
+            "lost_production": "11111.000000000",
+            "financial_loss": "23332.000000000",
+            "status": "S"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceBusiness",
+        "pk": "1",
+        "fields": {
+            "occurrence": "1",
+            "business": "10",
+            "status": "S"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceBusiness",
+        "pk": "2",
+        "fields": {
+            "occurrence": "2",
+            "business": "12",
+            "status": "S"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceBusiness",
+        "pk": "3",
+        "fields": {
+            "occurrence": "3",
+            "business": "2",
+            "status": "S"
+        }
+    },
+    {
+        "model": "occurrence_record.ManualEvent",
+        "pk": "1",
+        "fields": {
+            "occurrence": 1,
+            "gauge_point": 10065,
+            "event_type": 2,
+            "date": "2020-12-14T17:18:50.757000Z",
+            "duration": 12,
+            "magnitude": 11,
+            "status": "S"
+        }
+    }    
+]

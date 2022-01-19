@@ -1,0 +1,303 @@
+[
+    {
+        "model": "occurrence_record.EventType",
+        "pk": "1",
+        "fields": {
+            "name_event_type": "Sag"
+        }
+    },
+    {
+        "model": "occurrence_record.EventType",
+        "pk": "2",
+        "fields": {
+            "name_event_type": "Swell"
+        }
+    },
+    {
+        "model": "occurrence_record.EventType",
+        "pk": "3",
+        "fields": {
+            "name_event_type": "Transient"
+        }
+    },
+    {
+        "model": "occurrence_record.EventType",
+        "pk": "4",
+        "fields": {
+            "name_event_type": "Interruption"
+        }
+    },
+    {
+        "model": "occurrence_record.EventType",
+        "pk": "5",
+        "fields": {
+            "name_event_type": "Communication"
+        }
+    },
+    {
+        "model": "occurrence_record.EventType",
+        "pk": "6",
+        "fields": {
+            "name_event_type": "Demand"
+        }
+    },
+    {
+        "model": "occurrence_record.EventType",
+        "pk": "7",
+        "fields": {
+            "name_event_type": "Energy"
+        }
+    },
+    {
+        "model": "occurrence_record.EventType",
+        "pk": "8",
+        "fields": {
+            "name_event_type": "Voltage"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceCause",
+        "pk": "1",
+        "fields": {
+            "description": "Queimada ou Incêndio"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceCause",
+        "pk": "2",
+        "fields": {
+            "description": "Poluição"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceCause",
+        "pk": "3",
+        "fields": {
+            "description": "Corrosão"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceCause",
+        "pk": "4",
+        "fields": {
+            "description": "Inundação"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceCause",
+        "pk": "5",
+        "fields": {
+            "description": "Erosão"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceCause",
+        "pk": "6",
+        "fields": {
+            "description": "Árvore ou vegetação"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceCause",
+        "pk": "7",
+        "fields": {
+            "description": "Descarga atmosférica"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceCause",
+        "pk": "8",
+        "fields": {
+            "description": "Animais"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceCause",
+        "pk": "9",
+        "fields": {
+            "description": "Vento"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceCause",
+        "pk": "10",
+        "fields": {
+            "description": "Vandalismo"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceCause",
+        "pk": "11",
+        "fields": {
+            "description": "Abalroamento"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceCause",
+        "pk": "12",
+        "fields": {
+            "description": "Roubo"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceCause",
+        "pk": "13",
+        "fields": {
+            "description": "Acidente"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceCause",
+        "pk": "14",
+        "fields": {
+            "description": "Pipa"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceCause",
+        "pk": "15",
+        "fields": {
+            "description": "Defeito terceiros afetando"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceCause",
+        "pk": "16",
+        "fields": {
+            "description": "Erro de operação"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceCause",
+        "pk": "17",
+        "fields": {
+            "description": "Serviço mal executado"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceCause",
+        "pk": "18",
+        "fields": {
+            "description": "Subtensão"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceCause",
+        "pk": "19",
+        "fields": {
+            "description": "Sobretensão"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceCause",
+        "pk": "20",
+        "fields": {
+            "description": "Sobrecarga"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceCause",
+        "pk": "21",
+        "fields": {
+            "description": "Desligamento para manutenção emergencial"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceCause",
+        "pk": "22",
+        "fields": {
+            "description": "Desligamento por segurança"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceCause",
+        "pk": "23",
+        "fields": {
+            "description": "Falha de material ou equipamento (DJ, Chave, TP, TC, Trafo, BC, etc.)"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceCause",
+        "pk": "24",
+        "fields": {
+            "description": "Outros"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceType",
+        "pk": "1",
+        "fields": {
+            "description": "Programada"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceType",
+        "pk": "2",
+        "fields": {
+            "description": "Interrupção"
+        }
+    },
+    {
+        "model": "occurrence_record.OccurrenceType",
+        "pk": "3",
+        "fields": {
+            "description": "Perturbação"
+        }
+    },
+    {
+        "model": "occurrence_record.AppliedProtection",
+        "pk": "1",
+        "fields": {
+            "description": "Sobrecorrente instantânea"
+        }
+    },
+    {
+        "model": "occurrence_record.AppliedProtection",
+        "pk": "2",
+        "fields": {
+            "description": "Sobrecorrente temporizada"
+        }
+    },
+    {
+        "model": "occurrence_record.AppliedProtection",
+        "pk": "3",
+        "fields": {
+            "description": "Subtensão"
+        }
+    },
+    {
+        "model": "occurrence_record.AppliedProtection",
+        "pk": "4",
+        "fields": {
+            "description": "Sobretensão"
+        }
+    },
+    {
+        "model": "occurrence_record.AppliedProtection",
+        "pk": "5",
+        "fields": {
+            "description": "Frequência"
+        }
+    },
+    {
+        "model": "occurrence_record.AppliedProtection",
+        "pk": "6",
+        "fields": {
+            "description": "Diferencial"
+        }
+    },
+    {
+        "model": "occurrence_record.AppliedProtection",
+        "pk": "7",
+        "fields": {
+            "description": "ERAC"
+        }
+    },
+    {
+        "model": "occurrence_record.AppliedProtection",
+        "pk": "8",
+        "fields": {
+            "description": "Outras"
+        }
+    }
+]

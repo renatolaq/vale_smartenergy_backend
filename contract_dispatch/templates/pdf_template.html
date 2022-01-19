@@ -1,0 +1,87 @@
+
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <meta name="pdfkit-page-size" content="Legal"/>
+        <meta name="pdfkit-orientation" content="Landscape"/>
+        <style>
+            p {
+                font-weight: bold;
+                font-size: 12px;
+                font-family: "DejaVu Sans Condensed",serif;
+                margin-top: 0px;
+                margin-bottom: 0px;
+                padding-top: 0px;
+                padding-bottom: 0px;
+                height: 20px;
+            }
+            table {
+                font-family: "DejaVu Sans Condensed",serif;
+                font-size: 10px;
+                font-weight: normal;
+                font-style: normal;
+                text-decoration: none;
+                width: 100%;
+                text-align: left;
+                margin-top: 0px;
+                margin-bottom: 0px;
+                padding-top: 0px;
+                padding-bottom: 0px;
+            }
+            thead {
+                color: #fff;  
+                font-weight: bold;
+                text-align: center;
+            }
+            th {
+                background-color: #317D79;
+            }
+            table, tr, td, th, tbody, thead, tfoot {
+                margin-top: 0px;
+                margin-bottom: 0px;
+                padding-top: 0px;
+                padding-bottom: 0px;
+                page-break-inside: avoid !important;
+            }
+            img {
+                height: 110px;
+                margin-top: 0px;
+                margin-bottom: 0px;
+                padding-top: 0px;
+                padding-bottom: 0px;
+            }
+        </style>
+    </head>
+    <body>
+        <img src={{ image_file }}>
+        {% for contracts_group in data%}
+            {% if display_title == True %}
+            <p>
+                {{contracts_group.title}}
+            </p>
+            {% endif %}
+            <table>
+                <thead>
+                    <tr>
+                        {% for field in contracts_group.fields %}
+                            <th>
+                                {{field.name}}
+                            </th>
+                        {% endfor %}
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for contract in contracts_group.contracts %}
+                        <tr>
+                            {% for value in contract["values"] %}
+                                <td>
+                                    {{value}}
+                                </td>
+                            {% endfor %}
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        {% endfor %}
+    </body>
+</html>

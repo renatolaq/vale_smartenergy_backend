@@ -1,0 +1,5173 @@
+DATABASE NAME: dxcsgev2
+[
+{
+    "model": "asset_items.assetitems",
+    "pk": "1",
+    "fields": {
+        "id_assets": "8",
+        "id_company": "1",
+        "id_energy_composition": "3",
+        "status": "N"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "2",
+    "fields": {
+        "id_assets": "8",
+        "id_company": "2",
+        "id_energy_composition": null,
+        "status": "N"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "3",
+    "fields": {
+        "id_assets": "9",
+        "id_company": "3",
+        "id_energy_composition": null,
+        "status": "N"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "4",
+    "fields": {
+        "id_assets": "8",
+        "id_company": "4",
+        "id_energy_composition": null,
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "5",
+    "fields": {
+        "id_assets": "8",
+        "id_company": "5",
+        "id_energy_composition": null,
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "24",
+    "fields": {
+        "id_assets": null,
+        "id_company": "9",
+        "id_energy_composition": null,
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "26",
+    "fields": {
+        "id_assets": null,
+        "id_company": "7",
+        "id_energy_composition": null,
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "27",
+    "fields": {
+        "id_assets": null,
+        "id_company": "6",
+        "id_energy_composition": null,
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "28",
+    "fields": {
+        "id_assets": null,
+        "id_company": "11",
+        "id_energy_composition": null,
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "60",
+    "fields": {
+        "id_assets": null,
+        "id_company": "17",
+        "id_energy_composition": null,
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "61",
+    "fields": {
+        "id_assets": null,
+        "id_company": "24",
+        "id_energy_composition": null,
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "62",
+    "fields": {
+        "id_assets": null,
+        "id_company": "23",
+        "id_energy_composition": null,
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "63",
+    "fields": {
+        "id_assets": "8",
+        "id_company": "21",
+        "id_energy_composition": null,
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "64",
+    "fields": {
+        "id_assets": "8",
+        "id_company": "29",
+        "id_energy_composition": null,
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "65",
+    "fields": {
+        "id_assets": "9",
+        "id_company": "22",
+        "id_energy_composition": null,
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "66",
+    "fields": {
+        "id_assets": "9",
+        "id_company": "26",
+        "id_energy_composition": null,
+        "status": "N"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "67",
+    "fields": {
+        "id_assets": "8",
+        "id_company": "12",
+        "id_energy_composition": null,
+        "status": "N"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "68",
+    "fields": {
+        "id_assets": "8",
+        "id_company": "8",
+        "id_energy_composition": null,
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "69",
+    "fields": {
+        "id_assets": "8",
+        "id_company": "10",
+        "id_energy_composition": "1",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "70",
+    "fields": {
+        "id_assets": "8",
+        "id_company": "30",
+        "id_energy_composition": "1",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "79",
+    "fields": {
+        "id_assets": null,
+        "id_company": "25",
+        "id_energy_composition": null,
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "80",
+    "fields": {
+        "id_assets": "8",
+        "id_company": "27",
+        "id_energy_composition": "1",
+        "status": "N"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "99",
+    "fields": {
+        "id_assets": "34",
+        "id_company": "20",
+        "id_energy_composition": null,
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "100",
+    "fields": {
+        "id_assets": null,
+        "id_company": "13",
+        "id_energy_composition": null,
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "101",
+    "fields": {
+        "id_assets": null,
+        "id_company": "14",
+        "id_energy_composition": "31",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "102",
+    "fields": {
+        "id_assets": null,
+        "id_company": "15",
+        "id_energy_composition": "31",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "103",
+    "fields": {
+        "id_assets": "41",
+        "id_company": "16",
+        "id_energy_composition": null,
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "104",
+    "fields": {
+        "id_assets": "42",
+        "id_company": "31",
+        "id_energy_composition": "31",
+        "status": "N"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "110",
+    "fields": {
+        "id_assets": "152",
+        "id_company": "19",
+        "id_energy_composition": "116",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "111",
+    "fields": {
+        "id_assets": "33",
+        "id_company": "18",
+        "id_energy_composition": "65",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "114",
+    "fields": {
+        "id_assets": null,
+        "id_company": "33",
+        "id_energy_composition": null,
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "115",
+    "fields": {
+        "id_assets": "138",
+        "id_company": "37",
+        "id_energy_composition": "30",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "116",
+    "fields": {
+        "id_assets": "160",
+        "id_company": "42",
+        "id_energy_composition": "119",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "117",
+    "fields": {
+        "id_assets": "147",
+        "id_company": "36",
+        "id_energy_composition": "59",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "118",
+    "fields": {
+        "id_assets": "163",
+        "id_company": "43",
+        "id_energy_composition": "23",
+        "status": "N"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "119",
+    "fields": {
+        "id_assets": "139",
+        "id_company": "34",
+        "id_energy_composition": "30",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "120",
+    "fields": {
+        "id_assets": "165",
+        "id_company": "32",
+        "id_energy_composition": "30",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "121",
+    "fields": {
+        "id_assets": "167",
+        "id_company": "44",
+        "id_energy_composition": "31",
+        "status": "N"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "122",
+    "fields": {
+        "id_assets": "147",
+        "id_company": "46",
+        "id_energy_composition": "68",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "123",
+    "fields": {
+        "id_assets": "139",
+        "id_company": "39",
+        "id_energy_composition": "336",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "124",
+    "fields": {
+        "id_assets": "162",
+        "id_company": "47",
+        "id_energy_composition": "69",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "125",
+    "fields": {
+        "id_assets": "161",
+        "id_company": "48",
+        "id_energy_composition": "70",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "126",
+    "fields": {
+        "id_assets": "183",
+        "id_company": "60",
+        "id_energy_composition": "72",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "127",
+    "fields": {
+        "id_assets": "185",
+        "id_company": "53",
+        "id_energy_composition": "73",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "128",
+    "fields": {
+        "id_assets": "186",
+        "id_company": "63",
+        "id_energy_composition": "74",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "129",
+    "fields": {
+        "id_assets": "78",
+        "id_company": "52",
+        "id_energy_composition": "71",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "130",
+    "fields": {
+        "id_assets": "181",
+        "id_company": "73",
+        "id_energy_composition": "85",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "131",
+    "fields": {
+        "id_assets": "181",
+        "id_company": "40",
+        "id_energy_composition": "85",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "132",
+    "fields": {
+        "id_assets": "194",
+        "id_company": "74",
+        "id_energy_composition": "87",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "133",
+    "fields": {
+        "id_assets": "202",
+        "id_company": "67",
+        "id_energy_composition": "115",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "134",
+    "fields": {
+        "id_assets": "33",
+        "id_company": "45",
+        "id_energy_composition": "118",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "135",
+    "fields": {
+        "id_assets": "193",
+        "id_company": "64",
+        "id_energy_composition": "131",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "136",
+    "fields": {
+        "id_assets": "219",
+        "id_company": "77",
+        "id_energy_composition": "132",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "137",
+    "fields": {
+        "id_assets": "174",
+        "id_company": "68",
+        "id_energy_composition": "17",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "138",
+    "fields": {
+        "id_assets": "221",
+        "id_company": "85",
+        "id_energy_composition": "134",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "139",
+    "fields": {
+        "id_assets": "208",
+        "id_company": "69",
+        "id_energy_composition": "136",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "140",
+    "fields": {
+        "id_assets": "206",
+        "id_company": "80",
+        "id_energy_composition": "137",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "141",
+    "fields": {
+        "id_assets": "225",
+        "id_company": "56",
+        "id_energy_composition": "127",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "142",
+    "fields": {
+        "id_assets": "152",
+        "id_company": "109",
+        "id_energy_composition": "142",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "143",
+    "fields": {
+        "id_assets": "225",
+        "id_company": "97",
+        "id_energy_composition": "163",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "144",
+    "fields": {
+        "id_assets": "236",
+        "id_company": "113",
+        "id_energy_composition": "151",
+        "status": "N"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "145",
+    "fields": {
+        "id_assets": "245",
+        "id_company": "115",
+        "id_energy_composition": "147",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "146",
+    "fields": {
+        "id_assets": "248",
+        "id_company": "122",
+        "id_energy_composition": "158",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "147",
+    "fields": {
+        "id_assets": "256",
+        "id_company": "144",
+        "id_energy_composition": "166",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "148",
+    "fields": {
+        "id_assets": "260",
+        "id_company": "128",
+        "id_energy_composition": "160",
+        "status": "N"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "149",
+    "fields": {
+        "id_assets": "245",
+        "id_company": "147",
+        "id_energy_composition": "170",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "150",
+    "fields": {
+        "id_assets": "243",
+        "id_company": "149",
+        "id_energy_composition": "172",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "151",
+    "fields": {
+        "id_assets": "260",
+        "id_company": "150",
+        "id_energy_composition": "174",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "152",
+    "fields": {
+        "id_assets": "280",
+        "id_company": "155",
+        "id_energy_composition": "175",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "153",
+    "fields": {
+        "id_assets": "281",
+        "id_company": "156",
+        "id_energy_composition": "176",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "154",
+    "fields": {
+        "id_assets": "224",
+        "id_company": "153",
+        "id_energy_composition": "177",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "155",
+    "fields": {
+        "id_assets": "283",
+        "id_company": "154",
+        "id_energy_composition": "179",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "156",
+    "fields": {
+        "id_assets": "283",
+        "id_company": "159",
+        "id_energy_composition": "181",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "157",
+    "fields": {
+        "id_assets": "221",
+        "id_company": "160",
+        "id_energy_composition": "182",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "158",
+    "fields": {
+        "id_assets": "367",
+        "id_company": "161",
+        "id_energy_composition": "303",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "159",
+    "fields": {
+        "id_assets": "284",
+        "id_company": "163",
+        "id_energy_composition": "184",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "160",
+    "fields": {
+        "id_assets": "284",
+        "id_company": "164",
+        "id_energy_composition": "185",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "161",
+    "fields": {
+        "id_assets": "284",
+        "id_company": "165",
+        "id_energy_composition": "186",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "162",
+    "fields": {
+        "id_assets": "255",
+        "id_company": "166",
+        "id_energy_composition": "189",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "163",
+    "fields": {
+        "id_assets": "261",
+        "id_company": "167",
+        "id_energy_composition": "190",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "164",
+    "fields": {
+        "id_assets": "255",
+        "id_company": "168",
+        "id_energy_composition": "191",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "165",
+    "fields": {
+        "id_assets": "33",
+        "id_company": "169",
+        "id_energy_composition": "192",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "166",
+    "fields": {
+        "id_assets": "260",
+        "id_company": "170",
+        "id_energy_composition": "194",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "167",
+    "fields": {
+        "id_assets": "284",
+        "id_company": "171",
+        "id_energy_composition": "195",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "168",
+    "fields": {
+        "id_assets": "255",
+        "id_company": "172",
+        "id_energy_composition": "196",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "169",
+    "fields": {
+        "id_assets": "261",
+        "id_company": "174",
+        "id_energy_composition": "197",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "170",
+    "fields": {
+        "id_assets": "301",
+        "id_company": "88",
+        "id_energy_composition": "139",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "171",
+    "fields": {
+        "id_assets": "255",
+        "id_company": "175",
+        "id_energy_composition": "201",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "172",
+    "fields": {
+        "id_assets": "255",
+        "id_company": "176",
+        "id_energy_composition": "202",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "173",
+    "fields": {
+        "id_assets": "255",
+        "id_company": "177",
+        "id_energy_composition": "203",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "174",
+    "fields": {
+        "id_assets": "261",
+        "id_company": "178",
+        "id_energy_composition": "204",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "175",
+    "fields": {
+        "id_assets": "261",
+        "id_company": "179",
+        "id_energy_composition": "206",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "176",
+    "fields": {
+        "id_assets": "256",
+        "id_company": "180",
+        "id_energy_composition": "210",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "177",
+    "fields": {
+        "id_assets": "285",
+        "id_company": "82",
+        "id_energy_composition": "213",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "178",
+    "fields": {
+        "id_assets": "280",
+        "id_company": "181",
+        "id_energy_composition": "215",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "179",
+    "fields": {
+        "id_assets": "287",
+        "id_company": "183",
+        "id_energy_composition": "218",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "180",
+    "fields": {
+        "id_assets": "260",
+        "id_company": "182",
+        "id_energy_composition": "219",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "181",
+    "fields": {
+        "id_assets": "256",
+        "id_company": "184",
+        "id_energy_composition": "220",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "182",
+    "fields": {
+        "id_assets": "33",
+        "id_company": "190",
+        "id_energy_composition": "223",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "183",
+    "fields": {
+        "id_assets": "261",
+        "id_company": "191",
+        "id_energy_composition": "224",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "184",
+    "fields": {
+        "id_assets": "291",
+        "id_company": "188",
+        "id_energy_composition": "227",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "185",
+    "fields": {
+        "id_assets": "291",
+        "id_company": "187",
+        "id_energy_composition": "228",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "186",
+    "fields": {
+        "id_assets": "293",
+        "id_company": "192",
+        "id_energy_composition": "225",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "187",
+    "fields": {
+        "id_assets": "292",
+        "id_company": "120",
+        "id_energy_composition": "233",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "188",
+    "fields": {
+        "id_assets": "293",
+        "id_company": "193",
+        "id_energy_composition": "235",
+        "status": "N"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "189",
+    "fields": {
+        "id_assets": "291",
+        "id_company": "194",
+        "id_energy_composition": "238",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "190",
+    "fields": {
+        "id_assets": "247",
+        "id_company": "189",
+        "id_energy_composition": "221",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "191",
+    "fields": {
+        "id_assets": "269",
+        "id_company": "195",
+        "id_energy_composition": "240",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "192",
+    "fields": {
+        "id_assets": "292",
+        "id_company": "196",
+        "id_energy_composition": "241",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "193",
+    "fields": {
+        "id_assets": "292",
+        "id_company": "197",
+        "id_energy_composition": "242",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "194",
+    "fields": {
+        "id_assets": "294",
+        "id_company": "198",
+        "id_energy_composition": "243",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "195",
+    "fields": {
+        "id_assets": "292",
+        "id_company": "199",
+        "id_energy_composition": "246",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "196",
+    "fields": {
+        "id_assets": "292",
+        "id_company": "200",
+        "id_energy_composition": "247",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "197",
+    "fields": {
+        "id_assets": "253",
+        "id_company": "201",
+        "id_energy_composition": "248",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "198",
+    "fields": {
+        "id_assets": "265",
+        "id_company": "202",
+        "id_energy_composition": "249",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "199",
+    "fields": {
+        "id_assets": "297",
+        "id_company": "204",
+        "id_energy_composition": "251",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "200",
+    "fields": {
+        "id_assets": "294",
+        "id_company": "205",
+        "id_energy_composition": "252",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "201",
+    "fields": {
+        "id_assets": "254",
+        "id_company": "207",
+        "id_energy_composition": "253",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "202",
+    "fields": {
+        "id_assets": "310",
+        "id_company": "209",
+        "id_energy_composition": "255",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "203",
+    "fields": {
+        "id_assets": "287",
+        "id_company": "212",
+        "id_energy_composition": "262",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "204",
+    "fields": {
+        "id_assets": "243",
+        "id_company": "213",
+        "id_energy_composition": "263",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "205",
+    "fields": {
+        "id_assets": "327",
+        "id_company": "214",
+        "id_energy_composition": "264",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "206",
+    "fields": {
+        "id_assets": "310",
+        "id_company": "222",
+        "id_energy_composition": "275",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "207",
+    "fields": {
+        "id_assets": "329",
+        "id_company": "220",
+        "id_energy_composition": "268",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "208",
+    "fields": {
+        "id_assets": "331",
+        "id_company": "225",
+        "id_energy_composition": "276",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "209",
+    "fields": {
+        "id_assets": "319",
+        "id_company": "226",
+        "id_energy_composition": "280",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "210",
+    "fields": {
+        "id_assets": "351",
+        "id_company": "228",
+        "id_energy_composition": "294",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "211",
+    "fields": {
+        "id_assets": "346",
+        "id_company": "229",
+        "id_energy_composition": "284",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "212",
+    "fields": {
+        "id_assets": "340",
+        "id_company": "234",
+        "id_energy_composition": "286",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "213",
+    "fields": {
+        "id_assets": "341",
+        "id_company": "235",
+        "id_energy_composition": "287",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "214",
+    "fields": {
+        "id_assets": "342",
+        "id_company": "237",
+        "id_energy_composition": "288",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "215",
+    "fields": {
+        "id_assets": "275",
+        "id_company": "243",
+        "id_energy_composition": "289",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "216",
+    "fields": {
+        "id_assets": "345",
+        "id_company": "247",
+        "id_energy_composition": "290",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "217",
+    "fields": {
+        "id_assets": "350",
+        "id_company": "251",
+        "id_energy_composition": "293",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "218",
+    "fields": {
+        "id_assets": "352",
+        "id_company": "255",
+        "id_energy_composition": "295",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "219",
+    "fields": {
+        "id_assets": "353",
+        "id_company": "257",
+        "id_energy_composition": "298",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "220",
+    "fields": {
+        "id_assets": "294",
+        "id_company": "211",
+        "id_energy_composition": "259",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "221",
+    "fields": {
+        "id_assets": "364",
+        "id_company": "210",
+        "id_energy_composition": "258",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "222",
+    "fields": {
+        "id_assets": "337",
+        "id_company": "287",
+        "id_energy_composition": "340",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "223",
+    "fields": {
+        "id_assets": "372",
+        "id_company": "282",
+        "id_energy_composition": "335",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "224",
+    "fields": {
+        "id_assets": "367",
+        "id_company": "261",
+        "id_energy_composition": "316",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "225",
+    "fields": {
+        "id_assets": "362",
+        "id_company": "279",
+        "id_energy_composition": "347",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "226",
+    "fields": {
+        "id_assets": "262",
+        "id_company": "89",
+        "id_energy_composition": "199",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "227",
+    "fields": {
+        "id_assets": "357",
+        "id_company": "291",
+        "id_energy_composition": "339",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "228",
+    "fields": {
+        "id_assets": "368",
+        "id_company": "218",
+        "id_energy_composition": "266",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "229",
+    "fields": {
+        "id_assets": "371",
+        "id_company": "321",
+        "id_energy_composition": "352",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "230",
+    "fields": {
+        "id_assets": "368",
+        "id_company": "322",
+        "id_energy_composition": "353",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "231",
+    "fields": {
+        "id_assets": "372",
+        "id_company": "280",
+        "id_energy_composition": "344",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "232",
+    "fields": {
+        "id_assets": "372",
+        "id_company": "326",
+        "id_energy_composition": "354",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "233",
+    "fields": {
+        "id_assets": "286",
+        "id_company": "330",
+        "id_energy_composition": "356",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "234",
+    "fields": {
+        "id_assets": "286",
+        "id_company": "331",
+        "id_energy_composition": "357",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "235",
+    "fields": {
+        "id_assets": "376",
+        "id_company": "343",
+        "id_energy_composition": "366",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "236",
+    "fields": {
+        "id_assets": "378",
+        "id_company": "338",
+        "id_energy_composition": "361",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "237",
+    "fields": {
+        "id_assets": "380",
+        "id_company": "294",
+        "id_energy_composition": "366",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "238",
+    "fields": {
+        "id_assets": "315",
+        "id_company": "349",
+        "id_energy_composition": "367",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "239",
+    "fields": {
+        "id_assets": "384",
+        "id_company": "233",
+        "id_energy_composition": "292",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "240",
+    "fields": {
+        "id_assets": "385",
+        "id_company": "293",
+        "id_energy_composition": "370",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "241",
+    "fields": {
+        "id_assets": "386",
+        "id_company": "271",
+        "id_energy_composition": "371",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "242",
+    "fields": {
+        "id_assets": "387",
+        "id_company": "55",
+        "id_energy_composition": "207",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "243",
+    "fields": {
+        "id_assets": "387",
+        "id_company": "90",
+        "id_energy_composition": "162",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "244",
+    "fields": {
+        "id_assets": "378",
+        "id_company": "132",
+        "id_energy_composition": "376",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "245",
+    "fields": {
+        "id_assets": "389",
+        "id_company": "359",
+        "id_energy_composition": "379",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "246",
+    "fields": {
+        "id_assets": "289",
+        "id_company": "356",
+        "id_energy_composition": "377",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "247",
+    "fields": {
+        "id_assets": "391",
+        "id_company": "364",
+        "id_energy_composition": "380",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "248",
+    "fields": {
+        "id_assets": "384",
+        "id_company": "248",
+        "id_energy_composition": "291",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "249",
+    "fields": {
+        "id_assets": "395",
+        "id_company": "376",
+        "id_energy_composition": "393",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "250",
+    "fields": {
+        "id_assets": "396",
+        "id_company": "372",
+        "id_energy_composition": "394",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "253",
+    "fields": {
+        "id_assets": "397",
+        "id_company": "414",
+        "id_energy_composition": "417",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.assetitems",
+    "pk": "254",
+    "fields": {
+        "id_assets": "400",
+        "id_company": "333",
+        "id_energy_composition": "358",
+        "status": "S"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "1",
+    "fields": {
+        "id_asset_items": "1",
+        "id_seasonality": "22"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "2",
+    "fields": {
+        "id_asset_items": "2",
+        "id_seasonality": "41"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "3",
+    "fields": {
+        "id_asset_items": "2",
+        "id_seasonality": "52"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "4",
+    "fields": {
+        "id_asset_items": "1",
+        "id_seasonality": "53"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "5",
+    "fields": {
+        "id_asset_items": "5",
+        "id_seasonality": "66"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "6",
+    "fields": {
+        "id_asset_items": "65",
+        "id_seasonality": "91"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "7",
+    "fields": {
+        "id_asset_items": "65",
+        "id_seasonality": "92"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "8",
+    "fields": {
+        "id_asset_items": "65",
+        "id_seasonality": "93"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "9",
+    "fields": {
+        "id_asset_items": "65",
+        "id_seasonality": "94"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "10",
+    "fields": {
+        "id_asset_items": "65",
+        "id_seasonality": "95"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "11",
+    "fields": {
+        "id_asset_items": "65",
+        "id_seasonality": "96"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "12",
+    "fields": {
+        "id_asset_items": "66",
+        "id_seasonality": "114"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "13",
+    "fields": {
+        "id_asset_items": "66",
+        "id_seasonality": "115"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "14",
+    "fields": {
+        "id_asset_items": "66",
+        "id_seasonality": "190"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "15",
+    "fields": {
+        "id_asset_items": "99",
+        "id_seasonality": "193"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "16",
+    "fields": {
+        "id_asset_items": "103",
+        "id_seasonality": "194"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "17",
+    "fields": {
+        "id_asset_items": "104",
+        "id_seasonality": "199"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "18",
+    "fields": {
+        "id_asset_items": "110",
+        "id_seasonality": "210"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "19",
+    "fields": {
+        "id_asset_items": "111",
+        "id_seasonality": "222"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "20",
+    "fields": {
+        "id_asset_items": "111",
+        "id_seasonality": "225"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "21",
+    "fields": {
+        "id_asset_items": "115",
+        "id_seasonality": "232"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "22",
+    "fields": {
+        "id_asset_items": "116",
+        "id_seasonality": "237"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "23",
+    "fields": {
+        "id_asset_items": "117",
+        "id_seasonality": "241"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "24",
+    "fields": {
+        "id_asset_items": "118",
+        "id_seasonality": "244"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "25",
+    "fields": {
+        "id_asset_items": "119",
+        "id_seasonality": "248"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "26",
+    "fields": {
+        "id_asset_items": "120",
+        "id_seasonality": "251"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "27",
+    "fields": {
+        "id_asset_items": "121",
+        "id_seasonality": "256"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "28",
+    "fields": {
+        "id_asset_items": "2",
+        "id_seasonality": "259"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "29",
+    "fields": {
+        "id_asset_items": "2",
+        "id_seasonality": "260"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "30",
+    "fields": {
+        "id_asset_items": "2",
+        "id_seasonality": "261"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "31",
+    "fields": {
+        "id_asset_items": "110",
+        "id_seasonality": "262"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "32",
+    "fields": {
+        "id_asset_items": "110",
+        "id_seasonality": "263"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "33",
+    "fields": {
+        "id_asset_items": "110",
+        "id_seasonality": "264"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "34",
+    "fields": {
+        "id_asset_items": "110",
+        "id_seasonality": "265"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "35",
+    "fields": {
+        "id_asset_items": "124",
+        "id_seasonality": "268"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "36",
+    "fields": {
+        "id_asset_items": "125",
+        "id_seasonality": "272"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "37",
+    "fields": {
+        "id_asset_items": "128",
+        "id_seasonality": "282"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "38",
+    "fields": {
+        "id_asset_items": "128",
+        "id_seasonality": "286"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "39",
+    "fields": {
+        "id_asset_items": "129",
+        "id_seasonality": "299"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "40",
+    "fields": {
+        "id_asset_items": "129",
+        "id_seasonality": "300"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "41",
+    "fields": {
+        "id_asset_items": "130",
+        "id_seasonality": "308"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "42",
+    "fields": {
+        "id_asset_items": "131",
+        "id_seasonality": "309"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "43",
+    "fields": {
+        "id_asset_items": "131",
+        "id_seasonality": "310"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "44",
+    "fields": {
+        "id_asset_items": "131",
+        "id_seasonality": "311"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "45",
+    "fields": {
+        "id_asset_items": "131",
+        "id_seasonality": "312"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "46",
+    "fields": {
+        "id_asset_items": "131",
+        "id_seasonality": "313"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "47",
+    "fields": {
+        "id_asset_items": "131",
+        "id_seasonality": "314"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "48",
+    "fields": {
+        "id_asset_items": "131",
+        "id_seasonality": "316"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "49",
+    "fields": {
+        "id_asset_items": "132",
+        "id_seasonality": "322"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "50",
+    "fields": {
+        "id_asset_items": "133",
+        "id_seasonality": "341"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "51",
+    "fields": {
+        "id_asset_items": "135",
+        "id_seasonality": "346"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "52",
+    "fields": {
+        "id_asset_items": "137",
+        "id_seasonality": "356"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "53",
+    "fields": {
+        "id_asset_items": "110",
+        "id_seasonality": "359"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "54",
+    "fields": {
+        "id_asset_items": "143",
+        "id_seasonality": "382"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "55",
+    "fields": {
+        "id_asset_items": "144",
+        "id_seasonality": "392"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "56",
+    "fields": {
+        "id_asset_items": "145",
+        "id_seasonality": "400"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "57",
+    "fields": {
+        "id_asset_items": "146",
+        "id_seasonality": "407"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "58",
+    "fields": {
+        "id_asset_items": "147",
+        "id_seasonality": "417"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "59",
+    "fields": {
+        "id_asset_items": "140",
+        "id_seasonality": "433"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "60",
+    "fields": {
+        "id_asset_items": "151",
+        "id_seasonality": "436"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "61",
+    "fields": {
+        "id_asset_items": "152",
+        "id_seasonality": "443"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "62",
+    "fields": {
+        "id_asset_items": "152",
+        "id_seasonality": "444"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "63",
+    "fields": {
+        "id_asset_items": "157",
+        "id_seasonality": "451"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "64",
+    "fields": {
+        "id_asset_items": "158",
+        "id_seasonality": "452"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "65",
+    "fields": {
+        "id_asset_items": "168",
+        "id_seasonality": "481"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "66",
+    "fields": {
+        "id_asset_items": "171",
+        "id_seasonality": "484"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "67",
+    "fields": {
+        "id_asset_items": "172",
+        "id_seasonality": "488"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "68",
+    "fields": {
+        "id_asset_items": "176",
+        "id_seasonality": "493"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "69",
+    "fields": {
+        "id_asset_items": "177",
+        "id_seasonality": "497"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "70",
+    "fields": {
+        "id_asset_items": "177",
+        "id_seasonality": "499"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "71",
+    "fields": {
+        "id_asset_items": "110",
+        "id_seasonality": "501"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "72",
+    "fields": {
+        "id_asset_items": "177",
+        "id_seasonality": "502"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "73",
+    "fields": {
+        "id_asset_items": "154",
+        "id_seasonality": "513"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "74",
+    "fields": {
+        "id_asset_items": "178",
+        "id_seasonality": "516"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "75",
+    "fields": {
+        "id_asset_items": "182",
+        "id_seasonality": "527"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "76",
+    "fields": {
+        "id_asset_items": "183",
+        "id_seasonality": "531"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "77",
+    "fields": {
+        "id_asset_items": "184",
+        "id_seasonality": "533"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "78",
+    "fields": {
+        "id_asset_items": "185",
+        "id_seasonality": "543"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "79",
+    "fields": {
+        "id_asset_items": "186",
+        "id_seasonality": "546"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "80",
+    "fields": {
+        "id_asset_items": "170",
+        "id_seasonality": "566"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "81",
+    "fields": {
+        "id_asset_items": "139",
+        "id_seasonality": "569"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "82",
+    "fields": {
+        "id_asset_items": "190",
+        "id_seasonality": "573"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "83",
+    "fields": {
+        "id_asset_items": "190",
+        "id_seasonality": "574"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "84",
+    "fields": {
+        "id_asset_items": "190",
+        "id_seasonality": "575"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "85",
+    "fields": {
+        "id_asset_items": "141",
+        "id_seasonality": "579"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "86",
+    "fields": {
+        "id_asset_items": "141",
+        "id_seasonality": "580"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "87",
+    "fields": {
+        "id_asset_items": "141",
+        "id_seasonality": "581"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "88",
+    "fields": {
+        "id_asset_items": "192",
+        "id_seasonality": "585"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "89",
+    "fields": {
+        "id_asset_items": "195",
+        "id_seasonality": "593"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "90",
+    "fields": {
+        "id_asset_items": "196",
+        "id_seasonality": "597"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "91",
+    "fields": {
+        "id_asset_items": "197",
+        "id_seasonality": "600"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "92",
+    "fields": {
+        "id_asset_items": "198",
+        "id_seasonality": "603"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "93",
+    "fields": {
+        "id_asset_items": "198",
+        "id_seasonality": "605"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "94",
+    "fields": {
+        "id_asset_items": "199",
+        "id_seasonality": "609"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "95",
+    "fields": {
+        "id_asset_items": "199",
+        "id_seasonality": "614"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "96",
+    "fields": {
+        "id_asset_items": "200",
+        "id_seasonality": "619"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "97",
+    "fields": {
+        "id_asset_items": "201",
+        "id_seasonality": "622"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "98",
+    "fields": {
+        "id_asset_items": "202",
+        "id_seasonality": "628"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "99",
+    "fields": {
+        "id_asset_items": "203",
+        "id_seasonality": "632"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "100",
+    "fields": {
+        "id_asset_items": "203",
+        "id_seasonality": "635"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "101",
+    "fields": {
+        "id_asset_items": "204",
+        "id_seasonality": "644"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "102",
+    "fields": {
+        "id_asset_items": "204",
+        "id_seasonality": "648"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "103",
+    "fields": {
+        "id_asset_items": "205",
+        "id_seasonality": "652"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "104",
+    "fields": {
+        "id_asset_items": "207",
+        "id_seasonality": "660"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "105",
+    "fields": {
+        "id_asset_items": "208",
+        "id_seasonality": "666"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "106",
+    "fields": {
+        "id_asset_items": "208",
+        "id_seasonality": "670"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "107",
+    "fields": {
+        "id_asset_items": "209",
+        "id_seasonality": "673"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "108",
+    "fields": {
+        "id_asset_items": "210",
+        "id_seasonality": "678"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "109",
+    "fields": {
+        "id_asset_items": "211",
+        "id_seasonality": "683"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "110",
+    "fields": {
+        "id_asset_items": "214",
+        "id_seasonality": "693"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "111",
+    "fields": {
+        "id_asset_items": "215",
+        "id_seasonality": "701"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "112",
+    "fields": {
+        "id_asset_items": "216",
+        "id_seasonality": "718"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "113",
+    "fields": {
+        "id_asset_items": "217",
+        "id_seasonality": "728"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "114",
+    "fields": {
+        "id_asset_items": "218",
+        "id_seasonality": "750"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "115",
+    "fields": {
+        "id_asset_items": "219",
+        "id_seasonality": "753"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "116",
+    "fields": {
+        "id_asset_items": "212",
+        "id_seasonality": "758"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "117",
+    "fields": {
+        "id_asset_items": "220",
+        "id_seasonality": "772"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "118",
+    "fields": {
+        "id_asset_items": "223",
+        "id_seasonality": "797"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "119",
+    "fields": {
+        "id_asset_items": "229",
+        "id_seasonality": "821"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "120",
+    "fields": {
+        "id_asset_items": "232",
+        "id_seasonality": "834"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "121",
+    "fields": {
+        "id_asset_items": "234",
+        "id_seasonality": "842"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "122",
+    "fields": {
+        "id_asset_items": "234",
+        "id_seasonality": "844"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "123",
+    "fields": {
+        "id_asset_items": "234",
+        "id_seasonality": "852"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "124",
+    "fields": {
+        "id_asset_items": "239",
+        "id_seasonality": "879"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "125",
+    "fields": {
+        "id_asset_items": "236",
+        "id_seasonality": "882"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "126",
+    "fields": {
+        "id_asset_items": "240",
+        "id_seasonality": "886"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "127",
+    "fields": {
+        "id_asset_items": "236",
+        "id_seasonality": "890"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "128",
+    "fields": {
+        "id_asset_items": "244",
+        "id_seasonality": "897"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "129",
+    "fields": {
+        "id_asset_items": "249",
+        "id_seasonality": "910"
+    }
+},
+{
+    "model": "asset_items.seazonalityassetitemdepreciation",
+    "pk": "130",
+    "fields": {
+        "id_asset_items": "213",
+        "id_seasonality": "917"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "1",
+    "fields": {
+        "id_seazonality_asset": "1",
+        "id_asset_items": "1"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "2",
+    "fields": {
+        "id_seazonality_asset": "49",
+        "id_asset_items": "2"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "3",
+    "fields": {
+        "id_seazonality_asset": "50",
+        "id_asset_items": "2"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "4",
+    "fields": {
+        "id_seazonality_asset": "51",
+        "id_asset_items": "2"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "5",
+    "fields": {
+        "id_seazonality_asset": "54",
+        "id_asset_items": "1"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "10",
+    "fields": {
+        "id_seazonality_asset": "67",
+        "id_asset_items": "5"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "13",
+    "fields": {
+        "id_seazonality_asset": "99",
+        "id_asset_items": "65"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "14",
+    "fields": {
+        "id_seazonality_asset": "100",
+        "id_asset_items": "65"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "15",
+    "fields": {
+        "id_seazonality_asset": "112",
+        "id_asset_items": "66"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "16",
+    "fields": {
+        "id_seazonality_asset": "113",
+        "id_asset_items": "66"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "17",
+    "fields": {
+        "id_seazonality_asset": "130",
+        "id_asset_items": "66"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "18",
+    "fields": {
+        "id_seazonality_asset": "161",
+        "id_asset_items": "66"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "19",
+    "fields": {
+        "id_seazonality_asset": "162",
+        "id_asset_items": "66"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "32",
+    "fields": {
+        "id_seazonality_asset": "192",
+        "id_asset_items": "99"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "33",
+    "fields": {
+        "id_seazonality_asset": "195",
+        "id_asset_items": "103"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "34",
+    "fields": {
+        "id_seazonality_asset": "198",
+        "id_asset_items": "104"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "35",
+    "fields": {
+        "id_seazonality_asset": "209",
+        "id_asset_items": "110"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "36",
+    "fields": {
+        "id_seazonality_asset": "223",
+        "id_asset_items": "111"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "37",
+    "fields": {
+        "id_seazonality_asset": "226",
+        "id_asset_items": "111"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "38",
+    "fields": {
+        "id_seazonality_asset": "228",
+        "id_asset_items": "111"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "39",
+    "fields": {
+        "id_seazonality_asset": "233",
+        "id_asset_items": "115"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "40",
+    "fields": {
+        "id_seazonality_asset": "235",
+        "id_asset_items": "116"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "41",
+    "fields": {
+        "id_seazonality_asset": "240",
+        "id_asset_items": "117"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "42",
+    "fields": {
+        "id_seazonality_asset": "243",
+        "id_asset_items": "118"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "43",
+    "fields": {
+        "id_seazonality_asset": "247",
+        "id_asset_items": "119"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "44",
+    "fields": {
+        "id_seazonality_asset": "250",
+        "id_asset_items": "120"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "45",
+    "fields": {
+        "id_seazonality_asset": "257",
+        "id_asset_items": "121"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "46",
+    "fields": {
+        "id_seazonality_asset": "269",
+        "id_asset_items": "124"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "47",
+    "fields": {
+        "id_seazonality_asset": "273",
+        "id_asset_items": "125"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "48",
+    "fields": {
+        "id_seazonality_asset": "283",
+        "id_asset_items": "128"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "49",
+    "fields": {
+        "id_seazonality_asset": "287",
+        "id_asset_items": "128"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "50",
+    "fields": {
+        "id_seazonality_asset": "293",
+        "id_asset_items": "1"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "51",
+    "fields": {
+        "id_seazonality_asset": "298",
+        "id_asset_items": "129"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "52",
+    "fields": {
+        "id_seazonality_asset": "302",
+        "id_asset_items": "129"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "53",
+    "fields": {
+        "id_seazonality_asset": "307",
+        "id_asset_items": "130"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "54",
+    "fields": {
+        "id_seazonality_asset": "321",
+        "id_asset_items": "132"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "55",
+    "fields": {
+        "id_seazonality_asset": "340",
+        "id_asset_items": "133"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "56",
+    "fields": {
+        "id_seazonality_asset": "347",
+        "id_asset_items": "135"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "57",
+    "fields": {
+        "id_seazonality_asset": "355",
+        "id_asset_items": "137"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "58",
+    "fields": {
+        "id_seazonality_asset": "383",
+        "id_asset_items": "143"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "59",
+    "fields": {
+        "id_seazonality_asset": "391",
+        "id_asset_items": "144"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "60",
+    "fields": {
+        "id_seazonality_asset": "402",
+        "id_asset_items": "145"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "61",
+    "fields": {
+        "id_seazonality_asset": "408",
+        "id_asset_items": "146"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "62",
+    "fields": {
+        "id_seazonality_asset": "418",
+        "id_asset_items": "147"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "63",
+    "fields": {
+        "id_seazonality_asset": "422",
+        "id_asset_items": "143"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "64",
+    "fields": {
+        "id_seazonality_asset": "434",
+        "id_asset_items": "140"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "65",
+    "fields": {
+        "id_seazonality_asset": "437",
+        "id_asset_items": "151"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "66",
+    "fields": {
+        "id_seazonality_asset": "442",
+        "id_asset_items": "152"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "67",
+    "fields": {
+        "id_seazonality_asset": "449",
+        "id_asset_items": "157"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "68",
+    "fields": {
+        "id_seazonality_asset": "453",
+        "id_asset_items": "158"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "69",
+    "fields": {
+        "id_seazonality_asset": "477",
+        "id_asset_items": "169"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "70",
+    "fields": {
+        "id_seazonality_asset": "479",
+        "id_asset_items": "168"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "71",
+    "fields": {
+        "id_seazonality_asset": "483",
+        "id_asset_items": "171"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "72",
+    "fields": {
+        "id_seazonality_asset": "485",
+        "id_asset_items": "171"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "73",
+    "fields": {
+        "id_seazonality_asset": "487",
+        "id_asset_items": "172"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "74",
+    "fields": {
+        "id_seazonality_asset": "489",
+        "id_asset_items": "175"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "75",
+    "fields": {
+        "id_seazonality_asset": "492",
+        "id_asset_items": "176"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "76",
+    "fields": {
+        "id_seazonality_asset": "496",
+        "id_asset_items": "177"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "77",
+    "fields": {
+        "id_seazonality_asset": "503",
+        "id_asset_items": "177"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "78",
+    "fields": {
+        "id_seazonality_asset": "504",
+        "id_asset_items": "177"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "79",
+    "fields": {
+        "id_seazonality_asset": "511",
+        "id_asset_items": "154"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "80",
+    "fields": {
+        "id_seazonality_asset": "515",
+        "id_asset_items": "178"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "81",
+    "fields": {
+        "id_seazonality_asset": "518",
+        "id_asset_items": "179"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "82",
+    "fields": {
+        "id_seazonality_asset": "525",
+        "id_asset_items": "182"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "83",
+    "fields": {
+        "id_seazonality_asset": "526",
+        "id_asset_items": "182"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "84",
+    "fields": {
+        "id_seazonality_asset": "529",
+        "id_asset_items": "183"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "85",
+    "fields": {
+        "id_seazonality_asset": "534",
+        "id_asset_items": "184"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "86",
+    "fields": {
+        "id_seazonality_asset": "541",
+        "id_asset_items": "185"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "87",
+    "fields": {
+        "id_seazonality_asset": "544",
+        "id_asset_items": "186"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "88",
+    "fields": {
+        "id_seazonality_asset": "552",
+        "id_asset_items": "189"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "89",
+    "fields": {
+        "id_seazonality_asset": "560",
+        "id_asset_items": "141"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "90",
+    "fields": {
+        "id_seazonality_asset": "564",
+        "id_asset_items": "170"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "91",
+    "fields": {
+        "id_seazonality_asset": "565",
+        "id_asset_items": "170"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "92",
+    "fields": {
+        "id_seazonality_asset": "568",
+        "id_asset_items": "139"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "93",
+    "fields": {
+        "id_seazonality_asset": "571",
+        "id_asset_items": "190"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "94",
+    "fields": {
+        "id_seazonality_asset": "572",
+        "id_asset_items": "190"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "95",
+    "fields": {
+        "id_seazonality_asset": "577",
+        "id_asset_items": "191"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "96",
+    "fields": {
+        "id_seazonality_asset": "578",
+        "id_asset_items": "170"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "97",
+    "fields": {
+        "id_seazonality_asset": "584",
+        "id_asset_items": "192"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "98",
+    "fields": {
+        "id_seazonality_asset": "587",
+        "id_asset_items": "193"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "99",
+    "fields": {
+        "id_seazonality_asset": "591",
+        "id_asset_items": "195"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "100",
+    "fields": {
+        "id_seazonality_asset": "592",
+        "id_asset_items": "195"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "101",
+    "fields": {
+        "id_seazonality_asset": "596",
+        "id_asset_items": "196"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "102",
+    "fields": {
+        "id_seazonality_asset": "599",
+        "id_asset_items": "197"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "103",
+    "fields": {
+        "id_seazonality_asset": "602",
+        "id_asset_items": "198"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "104",
+    "fields": {
+        "id_seazonality_asset": "606",
+        "id_asset_items": "198"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "105",
+    "fields": {
+        "id_seazonality_asset": "610",
+        "id_asset_items": "199"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "106",
+    "fields": {
+        "id_seazonality_asset": "613",
+        "id_asset_items": "199"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "107",
+    "fields": {
+        "id_seazonality_asset": "616",
+        "id_asset_items": "199"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "108",
+    "fields": {
+        "id_seazonality_asset": "618",
+        "id_asset_items": "200"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "109",
+    "fields": {
+        "id_seazonality_asset": "620",
+        "id_asset_items": "200"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "110",
+    "fields": {
+        "id_seazonality_asset": "623",
+        "id_asset_items": "201"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "111",
+    "fields": {
+        "id_seazonality_asset": "626",
+        "id_asset_items": "202"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "112",
+    "fields": {
+        "id_seazonality_asset": "631",
+        "id_asset_items": "203"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "113",
+    "fields": {
+        "id_seazonality_asset": "634",
+        "id_asset_items": "203"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "114",
+    "fields": {
+        "id_seazonality_asset": "645",
+        "id_asset_items": "204"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "115",
+    "fields": {
+        "id_seazonality_asset": "646",
+        "id_asset_items": "204"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "116",
+    "fields": {
+        "id_seazonality_asset": "651",
+        "id_asset_items": "205"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "117",
+    "fields": {
+        "id_seazonality_asset": "659",
+        "id_asset_items": "207"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "118",
+    "fields": {
+        "id_seazonality_asset": "667",
+        "id_asset_items": "208"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "119",
+    "fields": {
+        "id_seazonality_asset": "669",
+        "id_asset_items": "208"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "120",
+    "fields": {
+        "id_seazonality_asset": "671",
+        "id_asset_items": "209"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "121",
+    "fields": {
+        "id_seazonality_asset": "679",
+        "id_asset_items": "210"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "122",
+    "fields": {
+        "id_seazonality_asset": "682",
+        "id_asset_items": "211"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "123",
+    "fields": {
+        "id_seazonality_asset": "687",
+        "id_asset_items": "212"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "124",
+    "fields": {
+        "id_seazonality_asset": "689",
+        "id_asset_items": "213"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "125",
+    "fields": {
+        "id_seazonality_asset": "692",
+        "id_asset_items": "214"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "126",
+    "fields": {
+        "id_seazonality_asset": "699",
+        "id_asset_items": "215"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "127",
+    "fields": {
+        "id_seazonality_asset": "717",
+        "id_asset_items": "216"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "128",
+    "fields": {
+        "id_seazonality_asset": "727",
+        "id_asset_items": "217"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "129",
+    "fields": {
+        "id_seazonality_asset": "748",
+        "id_asset_items": "218"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "130",
+    "fields": {
+        "id_seazonality_asset": "752",
+        "id_asset_items": "219"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "131",
+    "fields": {
+        "id_seazonality_asset": "769",
+        "id_asset_items": "220"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "132",
+    "fields": {
+        "id_seazonality_asset": "771",
+        "id_asset_items": "220"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "133",
+    "fields": {
+        "id_seazonality_asset": "788",
+        "id_asset_items": "221"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "134",
+    "fields": {
+        "id_seazonality_asset": "796",
+        "id_asset_items": "223"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "135",
+    "fields": {
+        "id_seazonality_asset": "820",
+        "id_asset_items": "229"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "136",
+    "fields": {
+        "id_seazonality_asset": "823",
+        "id_asset_items": "227"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "137",
+    "fields": {
+        "id_seazonality_asset": "824",
+        "id_asset_items": "69"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "138",
+    "fields": {
+        "id_seazonality_asset": "825",
+        "id_asset_items": "69"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "139",
+    "fields": {
+        "id_seazonality_asset": "829",
+        "id_asset_items": "123"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "140",
+    "fields": {
+        "id_seazonality_asset": "830",
+        "id_asset_items": "231"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "141",
+    "fields": {
+        "id_seazonality_asset": "832",
+        "id_asset_items": "232"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "142",
+    "fields": {
+        "id_seazonality_asset": "843",
+        "id_asset_items": "234"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "143",
+    "fields": {
+        "id_seazonality_asset": "850",
+        "id_asset_items": "234"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "144",
+    "fields": {
+        "id_seazonality_asset": "877",
+        "id_asset_items": "239"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "145",
+    "fields": {
+        "id_seazonality_asset": "881",
+        "id_asset_items": "236"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "146",
+    "fields": {
+        "id_seazonality_asset": "885",
+        "id_asset_items": "240"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "147",
+    "fields": {
+        "id_seazonality_asset": "896",
+        "id_asset_items": "244"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "148",
+    "fields": {
+        "id_seazonality_asset": "900",
+        "id_asset_items": "245"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "149",
+    "fields": {
+        "id_seazonality_asset": "906",
+        "id_asset_items": "247"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "150",
+    "fields": {
+        "id_seazonality_asset": "909",
+        "id_asset_items": "249"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitemcost",
+    "pk": "154",
+    "fields": {
+        "id_seazonality_asset": "929",
+        "id_asset_items": "235"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "1",
+    "fields": {
+        "id_seasonality": "13",
+        "id_asset_items": "2"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "2",
+    "fields": {
+        "id_seasonality": "25",
+        "id_asset_items": "65"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "3",
+    "fields": {
+        "id_seasonality": "26",
+        "id_asset_items": "69"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "4",
+    "fields": {
+        "id_seasonality": "27",
+        "id_asset_items": "1"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "5",
+    "fields": {
+        "id_seasonality": "56",
+        "id_asset_items": "2"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "6",
+    "fields": {
+        "id_seasonality": "97",
+        "id_asset_items": "65"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "7",
+    "fields": {
+        "id_seasonality": "98",
+        "id_asset_items": "65"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "8",
+    "fields": {
+        "id_seasonality": "106",
+        "id_asset_items": "65"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "9",
+    "fields": {
+        "id_seasonality": "107",
+        "id_asset_items": "65"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "10",
+    "fields": {
+        "id_seasonality": "108",
+        "id_asset_items": "65"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "11",
+    "fields": {
+        "id_seasonality": "109",
+        "id_asset_items": "66"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "12",
+    "fields": {
+        "id_seasonality": "110",
+        "id_asset_items": "66"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "13",
+    "fields": {
+        "id_seasonality": "111",
+        "id_asset_items": "66"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "14",
+    "fields": {
+        "id_seasonality": "116",
+        "id_asset_items": "66"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "15",
+    "fields": {
+        "id_seasonality": "117",
+        "id_asset_items": "66"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "16",
+    "fields": {
+        "id_seasonality": "129",
+        "id_asset_items": "66"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "19",
+    "fields": {
+        "id_seasonality": "136",
+        "id_asset_items": "66"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "23",
+    "fields": {
+        "id_seasonality": "140",
+        "id_asset_items": "66"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "24",
+    "fields": {
+        "id_seasonality": "141",
+        "id_asset_items": "66"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "33",
+    "fields": {
+        "id_seasonality": "191",
+        "id_asset_items": "99"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "34",
+    "fields": {
+        "id_seasonality": "196",
+        "id_asset_items": "103"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "35",
+    "fields": {
+        "id_seasonality": "197",
+        "id_asset_items": "104"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "37",
+    "fields": {
+        "id_seasonality": "202",
+        "id_asset_items": "66"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "42",
+    "fields": {
+        "id_seasonality": "211",
+        "id_asset_items": "110"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "49",
+    "fields": {
+        "id_seasonality": "218",
+        "id_asset_items": "2"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "51",
+    "fields": {
+        "id_seasonality": "221",
+        "id_asset_items": "3"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "52",
+    "fields": {
+        "id_seasonality": "224",
+        "id_asset_items": "111"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "53",
+    "fields": {
+        "id_seasonality": "227",
+        "id_asset_items": "111"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "54",
+    "fields": {
+        "id_seasonality": "229",
+        "id_asset_items": "111"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "55",
+    "fields": {
+        "id_seasonality": "234",
+        "id_asset_items": "115"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "56",
+    "fields": {
+        "id_seasonality": "236",
+        "id_asset_items": "116"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "57",
+    "fields": {
+        "id_seasonality": "242",
+        "id_asset_items": "118"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "58",
+    "fields": {
+        "id_seasonality": "246",
+        "id_asset_items": "119"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "59",
+    "fields": {
+        "id_seasonality": "252",
+        "id_asset_items": "120"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "60",
+    "fields": {
+        "id_seasonality": "255",
+        "id_asset_items": "121"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "61",
+    "fields": {
+        "id_seasonality": "267",
+        "id_asset_items": "124"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "62",
+    "fields": {
+        "id_seasonality": "270",
+        "id_asset_items": "124"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "63",
+    "fields": {
+        "id_seasonality": "271",
+        "id_asset_items": "125"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "64",
+    "fields": {
+        "id_seasonality": "279",
+        "id_asset_items": "2"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "65",
+    "fields": {
+        "id_seasonality": "284",
+        "id_asset_items": "128"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "66",
+    "fields": {
+        "id_seasonality": "285",
+        "id_asset_items": "128"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "67",
+    "fields": {
+        "id_seasonality": "288",
+        "id_asset_items": "2"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "68",
+    "fields": {
+        "id_seasonality": "291",
+        "id_asset_items": "1"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "69",
+    "fields": {
+        "id_seasonality": "295",
+        "id_asset_items": "125"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "70",
+    "fields": {
+        "id_seasonality": "297",
+        "id_asset_items": "129"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "71",
+    "fields": {
+        "id_seasonality": "301",
+        "id_asset_items": "129"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "72",
+    "fields": {
+        "id_seasonality": "306",
+        "id_asset_items": "130"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "73",
+    "fields": {
+        "id_seasonality": "320",
+        "id_asset_items": "132"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "74",
+    "fields": {
+        "id_seasonality": "333",
+        "id_asset_items": "133"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "75",
+    "fields": {
+        "id_seasonality": "334",
+        "id_asset_items": "133"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "76",
+    "fields": {
+        "id_seasonality": "335",
+        "id_asset_items": "133"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "77",
+    "fields": {
+        "id_seasonality": "336",
+        "id_asset_items": "133"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "78",
+    "fields": {
+        "id_seasonality": "337",
+        "id_asset_items": "133"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "79",
+    "fields": {
+        "id_seasonality": "338",
+        "id_asset_items": "133"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "80",
+    "fields": {
+        "id_seasonality": "339",
+        "id_asset_items": "133"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "81",
+    "fields": {
+        "id_seasonality": "344",
+        "id_asset_items": "110"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "82",
+    "fields": {
+        "id_seasonality": "348",
+        "id_asset_items": "135"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "83",
+    "fields": {
+        "id_seasonality": "357",
+        "id_asset_items": "137"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "84",
+    "fields": {
+        "id_seasonality": "373",
+        "id_asset_items": "141"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "85",
+    "fields": {
+        "id_seasonality": "381",
+        "id_asset_items": "143"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "86",
+    "fields": {
+        "id_seasonality": "390",
+        "id_asset_items": "144"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "87",
+    "fields": {
+        "id_seasonality": "401",
+        "id_asset_items": "145"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "88",
+    "fields": {
+        "id_seasonality": "406",
+        "id_asset_items": "146"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "89",
+    "fields": {
+        "id_seasonality": "419",
+        "id_asset_items": "147"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "90",
+    "fields": {
+        "id_seasonality": "421",
+        "id_asset_items": "143"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "91",
+    "fields": {
+        "id_seasonality": "423",
+        "id_asset_items": "148"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "92",
+    "fields": {
+        "id_seasonality": "425",
+        "id_asset_items": "149"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "93",
+    "fields": {
+        "id_seasonality": "427",
+        "id_asset_items": "133"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "94",
+    "fields": {
+        "id_seasonality": "430",
+        "id_asset_items": "150"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "95",
+    "fields": {
+        "id_seasonality": "432",
+        "id_asset_items": "140"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "96",
+    "fields": {
+        "id_seasonality": "435",
+        "id_asset_items": "143"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "97",
+    "fields": {
+        "id_seasonality": "438",
+        "id_asset_items": "151"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "98",
+    "fields": {
+        "id_seasonality": "439",
+        "id_asset_items": "151"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "99",
+    "fields": {
+        "id_seasonality": "441",
+        "id_asset_items": "152"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "100",
+    "fields": {
+        "id_seasonality": "445",
+        "id_asset_items": "153"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "101",
+    "fields": {
+        "id_seasonality": "448",
+        "id_asset_items": "154"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "102",
+    "fields": {
+        "id_seasonality": "450",
+        "id_asset_items": "157"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "103",
+    "fields": {
+        "id_seasonality": "454",
+        "id_asset_items": "158"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "104",
+    "fields": {
+        "id_seasonality": "456",
+        "id_asset_items": "159"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "105",
+    "fields": {
+        "id_seasonality": "457",
+        "id_asset_items": "160"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "106",
+    "fields": {
+        "id_seasonality": "458",
+        "id_asset_items": "161"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "107",
+    "fields": {
+        "id_seasonality": "469",
+        "id_asset_items": "162"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "108",
+    "fields": {
+        "id_seasonality": "470",
+        "id_asset_items": "163"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "109",
+    "fields": {
+        "id_seasonality": "471",
+        "id_asset_items": "164"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "110",
+    "fields": {
+        "id_seasonality": "472",
+        "id_asset_items": "165"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "111",
+    "fields": {
+        "id_seasonality": "473",
+        "id_asset_items": "166"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "112",
+    "fields": {
+        "id_seasonality": "474",
+        "id_asset_items": "167"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "113",
+    "fields": {
+        "id_seasonality": "475",
+        "id_asset_items": "168"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "114",
+    "fields": {
+        "id_seasonality": "476",
+        "id_asset_items": "169"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "115",
+    "fields": {
+        "id_seasonality": "478",
+        "id_asset_items": "169"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "116",
+    "fields": {
+        "id_seasonality": "480",
+        "id_asset_items": "170"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "117",
+    "fields": {
+        "id_seasonality": "482",
+        "id_asset_items": "171"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "118",
+    "fields": {
+        "id_seasonality": "486",
+        "id_asset_items": "172"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "119",
+    "fields": {
+        "id_seasonality": "490",
+        "id_asset_items": "175"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "120",
+    "fields": {
+        "id_seasonality": "491",
+        "id_asset_items": "176"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "121",
+    "fields": {
+        "id_seasonality": "495",
+        "id_asset_items": "177"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "122",
+    "fields": {
+        "id_seasonality": "498",
+        "id_asset_items": "177"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "123",
+    "fields": {
+        "id_seasonality": "500",
+        "id_asset_items": "177"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "124",
+    "fields": {
+        "id_seasonality": "510",
+        "id_asset_items": "154"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "125",
+    "fields": {
+        "id_seasonality": "514",
+        "id_asset_items": "178"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "126",
+    "fields": {
+        "id_seasonality": "517",
+        "id_asset_items": "179"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "127",
+    "fields": {
+        "id_seasonality": "519",
+        "id_asset_items": "180"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "128",
+    "fields": {
+        "id_seasonality": "520",
+        "id_asset_items": "181"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "129",
+    "fields": {
+        "id_seasonality": "523",
+        "id_asset_items": "182"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "130",
+    "fields": {
+        "id_seasonality": "524",
+        "id_asset_items": "182"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "131",
+    "fields": {
+        "id_seasonality": "528",
+        "id_asset_items": "183"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "132",
+    "fields": {
+        "id_seasonality": "535",
+        "id_asset_items": "184"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "133",
+    "fields": {
+        "id_seasonality": "542",
+        "id_asset_items": "185"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "134",
+    "fields": {
+        "id_seasonality": "545",
+        "id_asset_items": "186"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "135",
+    "fields": {
+        "id_seasonality": "547",
+        "id_asset_items": "186"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "136",
+    "fields": {
+        "id_seasonality": "548",
+        "id_asset_items": "185"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "137",
+    "fields": {
+        "id_seasonality": "551",
+        "id_asset_items": "189"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "138",
+    "fields": {
+        "id_seasonality": "567",
+        "id_asset_items": "139"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "139",
+    "fields": {
+        "id_seasonality": "570",
+        "id_asset_items": "190"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "140",
+    "fields": {
+        "id_seasonality": "576",
+        "id_asset_items": "191"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "141",
+    "fields": {
+        "id_seasonality": "582",
+        "id_asset_items": "192"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "142",
+    "fields": {
+        "id_seasonality": "583",
+        "id_asset_items": "192"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "143",
+    "fields": {
+        "id_seasonality": "586",
+        "id_asset_items": "193"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "144",
+    "fields": {
+        "id_seasonality": "588",
+        "id_asset_items": "194"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "145",
+    "fields": {
+        "id_seasonality": "589",
+        "id_asset_items": "195"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "146",
+    "fields": {
+        "id_seasonality": "590",
+        "id_asset_items": "195"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "147",
+    "fields": {
+        "id_seasonality": "594",
+        "id_asset_items": "196"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "148",
+    "fields": {
+        "id_seasonality": "595",
+        "id_asset_items": "196"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "149",
+    "fields": {
+        "id_seasonality": "598",
+        "id_asset_items": "197"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "150",
+    "fields": {
+        "id_seasonality": "601",
+        "id_asset_items": "198"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "151",
+    "fields": {
+        "id_seasonality": "604",
+        "id_asset_items": "198"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "152",
+    "fields": {
+        "id_seasonality": "611",
+        "id_asset_items": "199"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "153",
+    "fields": {
+        "id_seasonality": "612",
+        "id_asset_items": "199"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "154",
+    "fields": {
+        "id_seasonality": "615",
+        "id_asset_items": "199"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "155",
+    "fields": {
+        "id_seasonality": "617",
+        "id_asset_items": "200"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "156",
+    "fields": {
+        "id_seasonality": "621",
+        "id_asset_items": "201"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "157",
+    "fields": {
+        "id_seasonality": "627",
+        "id_asset_items": "202"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "158",
+    "fields": {
+        "id_seasonality": "630",
+        "id_asset_items": "203"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "159",
+    "fields": {
+        "id_seasonality": "633",
+        "id_asset_items": "203"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "160",
+    "fields": {
+        "id_seasonality": "643",
+        "id_asset_items": "204"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "161",
+    "fields": {
+        "id_seasonality": "647",
+        "id_asset_items": "204"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "162",
+    "fields": {
+        "id_seasonality": "650",
+        "id_asset_items": "205"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "163",
+    "fields": {
+        "id_seasonality": "656",
+        "id_asset_items": "206"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "164",
+    "fields": {
+        "id_seasonality": "658",
+        "id_asset_items": "207"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "165",
+    "fields": {
+        "id_seasonality": "665",
+        "id_asset_items": "208"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "166",
+    "fields": {
+        "id_seasonality": "668",
+        "id_asset_items": "208"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "167",
+    "fields": {
+        "id_seasonality": "672",
+        "id_asset_items": "209"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "168",
+    "fields": {
+        "id_seasonality": "677",
+        "id_asset_items": "210"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "169",
+    "fields": {
+        "id_seasonality": "681",
+        "id_asset_items": "211"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "170",
+    "fields": {
+        "id_seasonality": "688",
+        "id_asset_items": "213"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "171",
+    "fields": {
+        "id_seasonality": "691",
+        "id_asset_items": "214"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "172",
+    "fields": {
+        "id_seasonality": "700",
+        "id_asset_items": "215"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "173",
+    "fields": {
+        "id_seasonality": "716",
+        "id_asset_items": "216"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "174",
+    "fields": {
+        "id_seasonality": "726",
+        "id_asset_items": "217"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "175",
+    "fields": {
+        "id_seasonality": "749",
+        "id_asset_items": "218"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "176",
+    "fields": {
+        "id_seasonality": "751",
+        "id_asset_items": "219"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "177",
+    "fields": {
+        "id_seasonality": "757",
+        "id_asset_items": "212"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "178",
+    "fields": {
+        "id_seasonality": "768",
+        "id_asset_items": "220"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "179",
+    "fields": {
+        "id_seasonality": "770",
+        "id_asset_items": "220"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "180",
+    "fields": {
+        "id_seasonality": "785",
+        "id_asset_items": "110"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "181",
+    "fields": {
+        "id_seasonality": "787",
+        "id_asset_items": "221"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "182",
+    "fields": {
+        "id_seasonality": "798",
+        "id_asset_items": "223"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "183",
+    "fields": {
+        "id_seasonality": "809",
+        "id_asset_items": "225"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "184",
+    "fields": {
+        "id_seasonality": "810",
+        "id_asset_items": "225"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "185",
+    "fields": {
+        "id_seasonality": "819",
+        "id_asset_items": "229"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "186",
+    "fields": {
+        "id_seasonality": "822",
+        "id_asset_items": "229"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "187",
+    "fields": {
+        "id_seasonality": "828",
+        "id_asset_items": "231"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "188",
+    "fields": {
+        "id_seasonality": "833",
+        "id_asset_items": "232"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "189",
+    "fields": {
+        "id_seasonality": "841",
+        "id_asset_items": "234"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "190",
+    "fields": {
+        "id_seasonality": "851",
+        "id_asset_items": "234"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "191",
+    "fields": {
+        "id_seasonality": "865",
+        "id_asset_items": "236"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "192",
+    "fields": {
+        "id_seasonality": "878",
+        "id_asset_items": "239"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "193",
+    "fields": {
+        "id_seasonality": "880",
+        "id_asset_items": "236"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "194",
+    "fields": {
+        "id_seasonality": "884",
+        "id_asset_items": "240"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "195",
+    "fields": {
+        "id_seasonality": "895",
+        "id_asset_items": "244"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "196",
+    "fields": {
+        "id_seasonality": "905",
+        "id_asset_items": "247"
+    }
+},
+{
+    "model": "asset_items.seasonalityassetitem",
+    "pk": "197",
+    "fields": {
+        "id_seasonality": "908",
+        "id_asset_items": "249"
+    }
+}
+]

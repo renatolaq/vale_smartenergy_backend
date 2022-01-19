@@ -1,0 +1,154 @@
+[{
+    "model": "occurrence_record.Event",
+    "pk": "1",
+    "fields": {
+        "gauge_point": "20092",
+        "event_type": "1",
+        "utc_events_begin": "2020-01-05T01:47:00Z",
+        "utc_creation": "2020-01-05T08:00:00Z",
+        "events_duration": 7200.0,
+        "events_magnitude": 51243012.0,
+        "type_usage_contract": "1",
+        "occurrence": null
+    }
+},{
+    "model": "occurrence_record.Event",
+    "pk": "2",
+    "fields": {
+        "gauge_point": "20092",
+        "event_type": "2",
+        "utc_events_begin": "2020-01-08T01:47:00Z",
+        "utc_creation": "2020-01-05T08:00:00Z",
+        "events_duration": 7200.0,
+        "events_magnitude": 51243012.0,
+        "type_usage_contract": "1",
+        "occurrence": null
+    }
+},
+{
+    "model": "occurrence_record.Event",
+    "pk": "3",
+    "fields": {
+        "gauge_point": "20092",
+        "event_type": "2",
+        "utc_events_begin": "2020-01-10T11:35:00Z",
+        "utc_creation": "2020-01-05T08:00:00Z",
+        "events_duration": 7200.0,
+        "events_magnitude": 51243012.0,
+        "type_usage_contract": "1",
+        "occurrence": null
+    }
+},
+{
+    "model": "occurrence_record.Event",
+    "pk": "3",
+    "fields": {
+        "gauge_point": "20092",
+        "event_type": "2",
+        "utc_events_begin": "2020-01-10T11:35:00Z",
+        "utc_creation": "2020-01-05T08:00:00Z",
+        "events_duration": 7200.0,
+        "events_magnitude": 51243012.0,
+        "type_usage_contract": "1",
+        "occurrence": null
+    }
+},
+{
+    "model": "occurrence_record.Event",
+    "pk": "4",
+    "fields": {
+        "gauge_point": "20092",
+        "event_type": "2",
+        "utc_events_begin": "2020-01-20T11:35:00Z",
+        "utc_creation": "2020-01-05T08:00:00Z",
+        "events_duration": 7200.0,
+        "events_magnitude": 51243012.0,
+        "type_usage_contract": "1",
+        "occurrence": null
+    }
+},
+{
+    "model": "occurrence_record.Event",
+    "pk": "5",
+    "fields": {
+        "gauge_point": "20092",
+        "event_type": "2",
+        "utc_events_begin": "2020-01-08T16:35:00Z",
+        "utc_creation": "2020-01-05T08:00:00Z",
+        "events_duration": 7200.0,
+        "events_magnitude": 51243012.0,
+        "type_usage_contract": "1",
+        "occurrence": null
+    }
+},
+{
+    "model": "occurrence_record.Event",
+    "pk": "6",
+    "fields": {
+        "gauge_point": "20092",
+        "event_type": "2",
+        "utc_events_begin": "2020-01-09T14:35:00Z",
+        "utc_creation": "2020-01-05T08:00:00Z",
+        "events_duration": 7200.0,
+        "events_magnitude": 51243012.0,
+        "type_usage_contract": "1",
+        "occurrence": null
+    }
+},
+{
+    "model": "occurrence_record.Event",
+    "pk": "7",
+    "fields": {
+        "gauge_point": "20092",
+        "event_type": "2",
+        "utc_events_begin": "2020-01-20T11:35:00Z",
+        "utc_creation": "2020-01-05T08:00:00Z",
+        "events_duration": 7200.0,
+        "events_magnitude": 51243012.0,
+        "type_usage_contract": "1",
+        "occurrence": null
+    }
+},
+{
+    "model": "occurrence_record.Event",
+    "pk": "8",
+    "fields": {
+        "gauge_point": "20092",
+        "event_type": "2",
+        "utc_events_begin": "2020-01-08T16:35:00Z",
+        "utc_creation": "2020-01-05T08:00:00Z",
+        "events_duration": 7200.0,
+        "events_magnitude": 51243012.0,
+        "type_usage_contract": "1",
+        "occurrence": null
+    }
+},
+{
+    "model": "occurrence_record.Event",
+    "pk": "9",
+    "fields": {
+        "gauge_point": "20092",
+        "event_type": "2",
+        "utc_events_begin": "2020-01-09T14:35:00Z",
+        "utc_creation": "2020-01-05T08:00:00Z",
+        "events_duration": 7200.0,
+        "events_magnitude": 51243012.0,
+        "type_usage_contract": "1",
+        "occurrence": null
+    }
+},
+{
+    "model": "occurrence_record.Event",
+    "pk": "10",
+    "fields": {
+        "gauge_point": "20092",
+        "event_type": "2",
+        "utc_events_begin": "2020-01-09T14:35:00Z",
+        "utc_creation": "2020-01-05T08:00:00Z",
+        "events_duration": 7200.0,
+        "events_magnitude": 51243012.0,
+        "type_usage_contract": "1",
+        "occurrence": null
+    }
+}
+]

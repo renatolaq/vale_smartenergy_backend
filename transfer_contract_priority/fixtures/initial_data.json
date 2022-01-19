@@ -1,0 +1,767 @@
+[
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "65",
+    "fields": {
+        "id_contract_cliq": "40",
+        "priority_number": "4",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "66",
+    "fields": {
+        "id_contract_cliq": "41",
+        "priority_number": "2",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "67",
+    "fields": {
+        "id_contract_cliq": "81",
+        "priority_number": "8",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "68",
+    "fields": {
+        "id_contract_cliq": "82",
+        "priority_number": "4",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "69",
+    "fields": {
+        "id_contract_cliq": "83",
+        "priority_number": "10",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "70",
+    "fields": {
+        "id_contract_cliq": "84",
+        "priority_number": "11",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "71",
+    "fields": {
+        "id_contract_cliq": "85",
+        "priority_number": "11",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "72",
+    "fields": {
+        "id_contract_cliq": "86",
+        "priority_number": "13",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "73",
+    "fields": {
+        "id_contract_cliq": "4",
+        "priority_number": "14",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "74",
+    "fields": {
+        "id_contract_cliq": "87",
+        "priority_number": "10",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "75",
+    "fields": {
+        "id_contract_cliq": "88",
+        "priority_number": "13",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "76",
+    "fields": {
+        "id_contract_cliq": "89",
+        "priority_number": "12",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "77",
+    "fields": {
+        "id_contract_cliq": "90",
+        "priority_number": "16",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "78",
+    "fields": {
+        "id_contract_cliq": "91",
+        "priority_number": "14",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "79",
+    "fields": {
+        "id_contract_cliq": "41",
+        "priority_number": "1",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "80",
+    "fields": {
+        "id_contract_cliq": "91",
+        "priority_number": null,
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "81",
+    "fields": {
+        "id_contract_cliq": "92",
+        "priority_number": "16",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "82",
+    "fields": {
+        "id_contract_cliq": "91",
+        "priority_number": null,
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "83",
+    "fields": {
+        "id_contract_cliq": "87",
+        "priority_number": "11",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "84",
+    "fields": {
+        "id_contract_cliq": "87",
+        "priority_number": "13",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "85",
+    "fields": {
+        "id_contract_cliq": "93",
+        "priority_number": "18",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "86",
+    "fields": {
+        "id_contract_cliq": "96",
+        "priority_number": "16",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "87",
+    "fields": {
+        "id_contract_cliq": "41",
+        "priority_number": "5",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "88",
+    "fields": {
+        "id_contract_cliq": "89",
+        "priority_number": "15",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "89",
+    "fields": {
+        "id_contract_cliq": "82",
+        "priority_number": "2",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "90",
+    "fields": {
+        "id_contract_cliq": "96",
+        "priority_number": "1",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "91",
+    "fields": {
+        "id_contract_cliq": "88",
+        "priority_number": "1",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "92",
+    "fields": {
+        "id_contract_cliq": "88",
+        "priority_number": "5",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "93",
+    "fields": {
+        "id_contract_cliq": "96",
+        "priority_number": "2",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "94",
+    "fields": {
+        "id_contract_cliq": "40",
+        "priority_number": "7",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "95",
+    "fields": {
+        "id_contract_cliq": "96",
+        "priority_number": "2",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "96",
+    "fields": {
+        "id_contract_cliq": "41",
+        "priority_number": "2",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "97",
+    "fields": {
+        "id_contract_cliq": "87",
+        "priority_number": "2",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "98",
+    "fields": {
+        "id_contract_cliq": "87",
+        "priority_number": "2",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "99",
+    "fields": {
+        "id_contract_cliq": "41",
+        "priority_number": "12",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "100",
+    "fields": {
+        "id_contract_cliq": "96",
+        "priority_number": "3",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "101",
+    "fields": {
+        "id_contract_cliq": "88",
+        "priority_number": "9",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "102",
+    "fields": {
+        "id_contract_cliq": "87",
+        "priority_number": "1",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "103",
+    "fields": {
+        "id_contract_cliq": "87",
+        "priority_number": "2",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "104",
+    "fields": {
+        "id_contract_cliq": "111",
+        "priority_number": "19",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "105",
+    "fields": {
+        "id_contract_cliq": "117",
+        "priority_number": "18",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "106",
+    "fields": {
+        "id_contract_cliq": "87",
+        "priority_number": "2",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "107",
+    "fields": {
+        "id_contract_cliq": "117",
+        "priority_number": "1",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "108",
+    "fields": {
+        "id_contract_cliq": "131",
+        "priority_number": "19",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "109",
+    "fields": {
+        "id_contract_cliq": "132",
+        "priority_number": "20",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "110",
+    "fields": {
+        "id_contract_cliq": "117",
+        "priority_number": "2",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "111",
+    "fields": {
+        "id_contract_cliq": "92",
+        "priority_number": "17",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "112",
+    "fields": {
+        "id_contract_cliq": "92",
+        "priority_number": "17",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "113",
+    "fields": {
+        "id_contract_cliq": "131",
+        "priority_number": "18",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "114",
+    "fields": {
+        "id_contract_cliq": "131",
+        "priority_number": "10",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "115",
+    "fields": {
+        "id_contract_cliq": "85",
+        "priority_number": "21",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "116",
+    "fields": {
+        "id_contract_cliq": "131",
+        "priority_number": "22",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "117",
+    "fields": {
+        "id_contract_cliq": "139",
+        "priority_number": "23",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "118",
+    "fields": {
+        "id_contract_cliq": "144",
+        "priority_number": "24",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "119",
+    "fields": {
+        "id_contract_cliq": "145",
+        "priority_number": "25",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "121",
+    "fields": {
+        "id_contract_cliq": "96",
+        "priority_number": "1",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "122",
+    "fields": {
+        "id_contract_cliq": "96",
+        "priority_number": "7",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "123",
+    "fields": {
+        "id_contract_cliq": "117",
+        "priority_number": "1",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "124",
+    "fields": {
+        "id_contract_cliq": "87",
+        "priority_number": "5",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "125",
+    "fields": {
+        "id_contract_cliq": "117",
+        "priority_number": "2",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "126",
+    "fields": {
+        "id_contract_cliq": "117",
+        "priority_number": "1",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "127",
+    "fields": {
+        "id_contract_cliq": "117",
+        "priority_number": "4",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "128",
+    "fields": {
+        "id_contract_cliq": "159",
+        "priority_number": "26",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "129",
+    "fields": {
+        "id_contract_cliq": "160",
+        "priority_number": "27",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "130",
+    "fields": {
+        "id_contract_cliq": "161",
+        "priority_number": "28",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "132",
+    "fields": {
+        "id_contract_cliq": "82",
+        "priority_number": "1",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "133",
+    "fields": {
+        "id_contract_cliq": "170",
+        "priority_number": "28",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "134",
+    "fields": {
+        "id_contract_cliq": "170",
+        "priority_number": "1",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "135",
+    "fields": {
+        "id_contract_cliq": "170",
+        "priority_number": "2",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "136",
+    "fields": {
+        "id_contract_cliq": "82",
+        "priority_number": "1",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "137",
+    "fields": {
+        "id_contract_cliq": "207",
+        "priority_number": "29",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "138",
+    "fields": {
+        "id_contract_cliq": "211",
+        "priority_number": "31",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "139",
+    "fields": {
+        "id_contract_cliq": "212",
+        "priority_number": "30",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "140",
+    "fields": {
+        "id_contract_cliq": "220",
+        "priority_number": "32",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "141",
+    "fields": {
+        "id_contract_cliq": "221",
+        "priority_number": null,
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "142",
+    "fields": {
+        "id_contract_cliq": "222",
+        "priority_number": null,
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "143",
+    "fields": {
+        "id_contract_cliq": "222",
+        "priority_number": "33",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "144",
+    "fields": {
+        "id_contract_cliq": "223",
+        "priority_number": "33",
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "145",
+    "fields": {
+        "id_contract_cliq": "40",
+        "priority_number": "6",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "146",
+    "fields": {
+        "id_contract_cliq": "151",
+        "priority_number": null,
+        "status": "N"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "147",
+    "fields": {
+        "id_contract_cliq": "223",
+        "priority_number": "3",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "148",
+    "fields": {
+        "id_contract_cliq": "151",
+        "priority_number": "34",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "149",
+    "fields": {
+        "id_contract_cliq": "253",
+        "priority_number": "35",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "150",
+    "fields": {
+        "id_contract_cliq": "254",
+        "priority_number": "36",
+        "status": "S"
+    }
+},
+{
+    "model": "transfer_contract_priority.transfercontractpriority",
+    "pk": "151",
+    "fields": {
+        "id_contract_cliq": "256",
+        "priority_number": "37",
+        "status": "S"
+    }
+}
+]

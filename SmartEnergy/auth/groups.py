@@ -1,0 +1,8 @@
+administrator = 'Admin'
+backoffice_commerce = 'BackComerc'
+electrical_systems = 'SistEle'
+financial_mgmt = 'GestaoEcon'
+budget_projections = 'OrcaProj'
+performance = 'Performance'
+issue_tracker = 'RegOcorr'
+company = 'Companies'

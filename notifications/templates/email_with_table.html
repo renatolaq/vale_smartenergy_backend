@@ -1,0 +1,76 @@
+<html>
+    <head>
+        <style>
+            p {
+                font-family: "Roboto";
+                font-style: normal;
+                font-weight: normal;
+                font-size: 16px;
+                line-height: 24px;
+            }
+            table {
+                text-align: center;
+                font-family: "Roboto";
+                font-style: normal;
+                font-weight: normal;
+                font-size: 16px;
+                line-height: 24px;
+                width: 80%;
+            }
+            table, tr, td, th {
+                border: 1px solid #828282;
+                border-collapse: collapse;
+            }
+            td {
+                width: auto;
+            }
+            thead {
+                background-color: #009688;
+                color: white;
+            }
+        </style>
+    </head>
+    <body>
+        <p>
+            {{message}}
+        </p>
+        <center>
+            <table>
+                <thead>
+                    <tr>
+                        {% for field in fields %}
+                        <th>{{field.name}}</th>
+                        {% endfor %}
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for fields in table_data %}
+                    <tr>
+                        {% for field in fields %}
+                            <td>{{field}}</td>
+                        {% endfor %}
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </center>
+        <br>
+        <p>Email automático, por favor, não responda.</p>
+        <p>
+            AVISO LEGAL "As informações existentes nesta mensagem e nos arquivos
+            anexados são para uso restrito. A utilização, divulgação, cópia ou
+            distribuição dessa mensagem por qualquer pessoa diferente do
+            destinatário é proibida. Se essa mensagem foi recebida por engano,
+            favor excluí-la e informar ao remetente pelo endereço eletrônico
+            acima."
+        </p>
+        <p>
+            DISCLAIMER "This email and its attachments may contain privileged
+            and/or confidential information. Use, disclosure, copying or
+            distribution of this message by anyone other than the intended
+            recipient is strictly prohibited. If you have received this email in
+            error, please notify the sender by reply email and destroy all
+            copies of this message."
+        </p>
+    </body>
+</html>

@@ -1,0 +1,2291 @@
+DATABASE NAME: dxcsgev2
+[
+{
+    "model": "organization.segment",
+    "pk": "1",
+    "fields": {
+        "description": "TesteFinalAccountantUpdate",
+        "status": "N"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "2",
+    "fields": {
+        "description": "AtesteOrdenacao",
+        "status": "N"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "3",
+    "fields": {
+        "description": "TECNOLOGIA",
+        "status": "A"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "4",
+    "fields": {
+        "description": "Eric",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "5",
+    "fields": {
+        "description": "teste",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "6",
+    "fields": {
+        "description": "Sample teste",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "7",
+    "fields": {
+        "description": "Teste Salvar",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "8",
+    "fields": {
+        "description": "Teste Salvar 2",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "9",
+    "fields": {
+        "description": "Lionel Ritchie",
+        "status": "A"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "10",
+    "fields": {
+        "description": "Fusca",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "11",
+    "fields": {
+        "description": "asdasdasd",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "12",
+    "fields": {
+        "description": "teste 4252434eer ererw",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "13",
+    "fields": {
+        "description": "qualquer coisa",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "14",
+    "fields": {
+        "description": "rodrigo coisa",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "15",
+    "fields": {
+        "description": "rodrigo coisa 1",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "16",
+    "fields": {
+        "description": "rodrigo coisa 2",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "17",
+    "fields": {
+        "description": "rodrigo coisa 3",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "18",
+    "fields": {
+        "description": "rodrigo coisa 4",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "19",
+    "fields": {
+        "description": "rodrigo coisa 5",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "20",
+    "fields": {
+        "description": "123321",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "21",
+    "fields": {
+        "description": "Alan Rogerio",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "22",
+    "fields": {
+        "description": "Tiago",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "23",
+    "fields": {
+        "description": "JUNUNUn",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "24",
+    "fields": {
+        "description": "IKIK",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "25",
+    "fields": {
+        "description": "kaka",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "26",
+    "fields": {
+        "description": "MKAsdk3",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "27",
+    "fields": {
+        "description": "Segmento teste",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "28",
+    "fields": {
+        "description": "Patolino Segmento 1",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "29",
+    "fields": {
+        "description": "Teste Segmento",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "30",
+    "fields": {
+        "description": "Mickey Segmento",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "31",
+    "fields": {
+        "description": "Minnei Interna Segmento",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "32",
+    "fields": {
+        "description": "Minnei Interna Segmento 22",
+        "status": "N"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "33",
+    "fields": {
+        "description": "Desabilitar",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "34",
+    "fields": {
+        "description": "LS Segmento 1",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "35",
+    "fields": {
+        "description": "CS Segmento 1",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "36",
+    "fields": {
+        "description": "Teste de Organizacional 4/4.",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "37",
+    "fields": {
+        "description": "2211 - SEGMENTO",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "38",
+    "fields": {
+        "description": "Sab Segmento",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "39",
+    "fields": {
+        "description": "Domingo 2411 Segmento 2",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "40",
+    "fields": {
+        "description": "Jaime Segmento",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "41",
+    "fields": {
+        "description": "2911 - SEG",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "42",
+    "fields": {
+        "description": "0312 - INATIVO",
+        "status": "N"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "43",
+    "fields": {
+        "description": "Segment MK",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "44",
+    "fields": {
+        "description": "Segmento do IE",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "45",
+    "fields": {
+        "description": "Segmento 27122018 - Alterado",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "46",
+    "fields": {
+        "description": "teste separa\u00e7\u00e3o endpoint",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "47",
+    "fields": {
+        "description": "Segmento 19 Fev 2020 II",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "48",
+    "fields": {
+        "description": "Segmento 1003",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "49",
+    "fields": {
+        "description": "Segmento 1003-2",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "50",
+    "fields": {
+        "description": "Testeath",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "51",
+    "fields": {
+        "description": "Segmento 20032020",
+        "status": "N"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "52",
+    "fields": {
+        "description": "Area Contabil 23032020 v2",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "53",
+    "fields": {
+        "description": "Area Contabil 23032020 II v2",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "54",
+    "fields": {
+        "description": "teste 23/03 update",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "55",
+    "fields": {
+        "description": "teste 23 Segmento update",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "56",
+    "fields": {
+        "description": "Segmento 24032020 II",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "57",
+    "fields": {
+        "description": "Segmento 07042020 II",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "58",
+    "fields": {
+        "description": "Segmento 0804",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.segment",
+    "pk": "59",
+    "fields": {
+        "description": "Segmento 090520",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "1",
+    "fields": {
+        "description": "Eric Domingos",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "2",
+    "fields": {
+        "description": "TESTE BUSINESS",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "3",
+    "fields": {
+        "description": "Teste update business",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "4",
+    "fields": {
+        "description": "TesteFinalBusinessUpdate",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "5",
+    "fields": {
+        "description": "TesteFinalBusinessUpdate",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "6",
+    "fields": {
+        "description": "asdddd",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "7",
+    "fields": {
+        "description": "adsdasdasd",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "8",
+    "fields": {
+        "description": "Teste Salvar 2",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "9",
+    "fields": {
+        "description": "dfsdfsf",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "10",
+    "fields": {
+        "description": "asdasdad",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "11",
+    "fields": {
+        "description": "qqweq weqwe",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "12",
+    "fields": {
+        "description": "asdasdasd",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "13",
+    "fields": {
+        "description": "wdfndfsg adfs jkk",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "14",
+    "fields": {
+        "description": "ewqe sasda asda",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "15",
+    "fields": {
+        "description": "asdasd",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "16",
+    "fields": {
+        "description": "teste",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "17",
+    "fields": {
+        "description": "asdasdd",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "18",
+    "fields": {
+        "description": "etsted asdasd asd asd asa",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "19",
+    "fields": {
+        "description": "Teste aad34 d",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "20",
+    "fields": {
+        "description": "Patolino Negocio 1",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "21",
+    "fields": {
+        "description": "Mickey Neg\u00f3cio",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "22",
+    "fields": {
+        "description": "Minnie Neg\u00f3cio",
+        "status": "N"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "23",
+    "fields": {
+        "description": "Minnei Interna Negocio",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "24",
+    "fields": {
+        "description": "paes - NEG\u00d3CIOS",
+        "status": "N"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "25",
+    "fields": {
+        "description": "LS Negocio 1",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "26",
+    "fields": {
+        "description": "Teste Neg\u00f3cio",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "27",
+    "fields": {
+        "description": "2211 - NEGOCIO",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "28",
+    "fields": {
+        "description": "Sab Neg\u00f3cio",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "29",
+    "fields": {
+        "description": "hjghujfef",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "30",
+    "fields": {
+        "description": "rfwqerfqwer",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "31",
+    "fields": {
+        "description": "teste 4",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "32",
+    "fields": {
+        "description": "Jaime Negocio",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "33",
+    "fields": {
+        "description": "2911 - NEG",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "34",
+    "fields": {
+        "description": "0312 - INATIVO",
+        "status": "N"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "35",
+    "fields": {
+        "description": "Business MK",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "36",
+    "fields": {
+        "description": "Negocio IE 2",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "37",
+    "fields": {
+        "description": "teste99",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "38",
+    "fields": {
+        "description": "neg",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "39",
+    "fields": {
+        "description": "teste separa\u00e7\u00e3o endpoint",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "40",
+    "fields": {
+        "description": "Negocio 14 Fev",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "41",
+    "fields": {
+        "description": "Diretoria 23032020 II",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "42",
+    "fields": {
+        "description": "Teste 23/03",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "43",
+    "fields": {
+        "description": "teste 23 Negocio",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "44",
+    "fields": {
+        "description": "Negocio 24032020 II",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "45",
+    "fields": {
+        "description": "Negocio 07042020 II",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "46",
+    "fields": {
+        "description": "teste NEgocio p\u00f3r",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "47",
+    "fields": {
+        "description": "Negocio 0804",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "48",
+    "fields": {
+        "description": "Negocio 080420",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "49",
+    "fields": {
+        "description": "Negocio Interna 250420",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "50",
+    "fields": {
+        "description": "Negocio Externa 250420",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "51",
+    "fields": {
+        "description": "Negocio Filial 250420",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "52",
+    "fields": {
+        "description": "Negocio Representada 250420",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.business",
+    "pk": "53",
+    "fields": {
+        "description": "Negocio 2904",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "1",
+    "fields": {
+        "description": "Teste update diretoria",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "2",
+    "fields": {
+        "description": "RIOBALDO",
+        "status": "A"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "3",
+    "fields": {
+        "description": "asdasd",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "4",
+    "fields": {
+        "description": "Fusca",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "5",
+    "fields": {
+        "description": "Teste",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "6",
+    "fields": {
+        "description": "Tiago Monteiro",
+        "status": "N"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "7",
+    "fields": {
+        "description": "Teste Director Board",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "8",
+    "fields": {
+        "description": "Patolino Diretoria 1",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "9",
+    "fields": {
+        "description": "Teste diretoria",
+        "status": "N"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "10",
+    "fields": {
+        "description": "Mickey Diretoria",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "11",
+    "fields": {
+        "description": "Minnei Interna Diretoria",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "12",
+    "fields": {
+        "description": "0\u00fa90\u00b40",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "13",
+    "fields": {
+        "description": "LS Diretoria 1",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "14",
+    "fields": {
+        "description": "Lau diretoria",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "15",
+    "fields": {
+        "description": "RETESTE - INATIVAR",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "16",
+    "fields": {
+        "description": "Teste de Organizacionais",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "17",
+    "fields": {
+        "description": "1811 - TESTE",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "18",
+    "fields": {
+        "description": "Diretoria 20",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "19",
+    "fields": {
+        "description": "Org 2211",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "20",
+    "fields": {
+        "description": "2211 - DIRETOR",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "21",
+    "fields": {
+        "description": "Diretoria Fe 02",
+        "status": "N"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "22",
+    "fields": {
+        "description": "Sab Diretoria",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "23",
+    "fields": {
+        "description": "Domingo 2411 Diretoria 2",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "24",
+    "fields": {
+        "description": "Ter\u00e7a Diretoria 2",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "25",
+    "fields": {
+        "description": "Jaime Diretoria",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "26",
+    "fields": {
+        "description": "2911 - DIR",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "27",
+    "fields": {
+        "description": "2911- diretor inativo",
+        "status": "N"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "28",
+    "fields": {
+        "description": "3011 - diretor 1",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "29",
+    "fields": {
+        "description": "3011 - diretor 2 inativo",
+        "status": "N"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "30",
+    "fields": {
+        "description": "Nova diretoria",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "31",
+    "fields": {
+        "description": "0312 - INATIVO",
+        "status": "N"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "32",
+    "fields": {
+        "description": "Board of Director MK",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "33",
+    "fields": {
+        "description": "Teste Lorem Ipsum",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "34",
+    "fields": {
+        "description": "diretoria da internet2",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "35",
+    "fields": {
+        "description": "teset",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "36",
+    "fields": {
+        "description": "MK Diretoria Altera\u00e7\u00e3o",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "37",
+    "fields": {
+        "description": "001- teste auth",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "38",
+    "fields": {
+        "description": "teste separa\u00e7\u00e3o endpoint",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "39",
+    "fields": {
+        "description": "02/02 - teste inativar",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "40",
+    "fields": {
+        "description": "Diretoria 13 FEV 2020",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "41",
+    "fields": {
+        "description": "Diretoria 18 FEV",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "42",
+    "fields": {
+        "description": "Diretoria 19 Fev 20",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "43",
+    "fields": {
+        "description": "diretoria rep 19 fev 20",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "44",
+    "fields": {
+        "description": "Diretoria 10032020",
+        "status": "N"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "45",
+    "fields": {
+        "description": "Diretoria 12032020 - 234",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "46",
+    "fields": {
+        "description": "Negocio 23032020 II",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "47",
+    "fields": {
+        "description": "teste 23 Diretoria",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "48",
+    "fields": {
+        "description": "teste Diretoria 2",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "49",
+    "fields": {
+        "description": "Diretoria 24032020 II",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "50",
+    "fields": {
+        "description": "Diretoria 07042020 II",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.directorboard",
+    "pk": "51",
+    "fields": {
+        "description": "Diretoria 0804",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "1",
+    "fields": {
+        "description": "Alan Rogerio 50",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "2",
+    "fields": {
+        "description": "BRASIL test",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "3",
+    "fields": {
+        "description": "TesteFinalAccountantUpdate nova altera\u00e7\u00e3",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "4",
+    "fields": {
+        "description": "Eric Domingos",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "5",
+    "fields": {
+        "description": "Teste Update",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "6",
+    "fields": {
+        "description": "teste a s dasas a",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "7",
+    "fields": {
+        "description": "bla",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "8",
+    "fields": {
+        "description": "AAAAAAA",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "9",
+    "fields": {
+        "description": "TESTE2711",
+        "status": "N"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "10",
+    "fields": {
+        "description": "002 - teste auth",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "11",
+    "fields": {
+        "description": "Patolino Contabil 1",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "12",
+    "fields": {
+        "description": "Mickey Area Contabil",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "13",
+    "fields": {
+        "description": "Minnei Interna Area Contabil",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "14",
+    "fields": {
+        "description": "Contabilidade",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "15",
+    "fields": {
+        "description": "Vale Org Area Contabil 1",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "16",
+    "fields": {
+        "description": "@######,,,, TESTE -  krfaslresfnam",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "18",
+    "fields": {
+        "description": "Hugo Jr Area Contabil 1",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "19",
+    "fields": {
+        "description": "Jose Area",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "20",
+    "fields": {
+        "description": "JS Contabil 11",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "21",
+    "fields": {
+        "description": "LS Contabil 1",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "22",
+    "fields": {
+        "description": "002 - Teste de Organizacionais",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "23",
+    "fields": {
+        "description": "Area CS",
+        "status": "N"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "24",
+    "fields": {
+        "description": "Area tst dxc 2",
+        "status": "N"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "25",
+    "fields": {
+        "description": "Sab Area Contabil 2",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "26",
+    "fields": {
+        "description": "Jaime Contabil",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "27",
+    "fields": {
+        "description": "Traducao Area 1",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "28",
+    "fields": {
+        "description": "Portugues Area Contabil 2",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "29",
+    "fields": {
+        "description": "Ingles Area Contabil 2",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "30",
+    "fields": {
+        "description": "2911 - CONTAB",
+        "status": "N"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "31",
+    "fields": {
+        "description": "Multilanguage Test Update",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "32",
+    "fields": {
+        "description": "0312 - INATIVO",
+        "status": "N"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "33",
+    "fields": {
+        "description": "Accounting Area MK",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "34",
+    "fields": {
+        "description": "BRASIL teste",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "35",
+    "fields": {
+        "description": "1301 - contabilidade",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "36",
+    "fields": {
+        "description": "Teste, Habilita e Desabilita",
+        "status": "N"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "37",
+    "fields": {
+        "description": "teste separa\u00e7\u00e3o",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "38",
+    "fields": {
+        "description": "002-teste auth",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "39",
+    "fields": {
+        "description": "teste auth area contabil",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "40",
+    "fields": {
+        "description": "errer",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "41",
+    "fields": {
+        "description": "Produto 23032020 II",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "42",
+    "fields": {
+        "description": "teste 23 Area update",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "43",
+    "fields": {
+        "description": "Area Contabil 24032020 II",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "44",
+    "fields": {
+        "description": "Area 25/03/2020",
+        "status": "N"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "45",
+    "fields": {
+        "description": "Area Contabil 07042020 II",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.accountantarea",
+    "pk": "46",
+    "fields": {
+        "description": "Area 0804",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "1",
+    "fields": {
+        "description": "TestUpdateTestViews",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "2",
+    "fields": {
+        "description": "TesteFinalProductUpdate12",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "3",
+    "fields": {
+        "description": "TesteFinalProductUpdate2",
+        "status": "N"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "4",
+    "fields": {
+        "description": "Alterando novamente para Vinic",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "5",
+    "fields": {
+        "description": "Alteracao da descricao",
+        "status": "N"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "6",
+    "fields": {
+        "description": "Troca do produto",
+        "status": "N"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "7",
+    "fields": {
+        "description": "testeBanco",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "8",
+    "fields": {
+        "description": "Patolino Produto 1",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "9",
+    "fields": {
+        "description": "Min\u00e9rio de Ferro",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "10",
+    "fields": {
+        "description": "Produto ACME 02",
+        "status": "N"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "11",
+    "fields": {
+        "description": "Mickey Produto",
+        "status": "N"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "12",
+    "fields": {
+        "description": "Minnei Interna Produto",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "13",
+    "fields": {
+        "description": "Razer Keyboard",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "14",
+    "fields": {
+        "description": "Motorola Smartphone",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "15",
+    "fields": {
+        "description": "Computador HP",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "16",
+    "fields": {
+        "description": "LS Produto 1",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "17",
+    "fields": {
+        "description": "KFHSDKFSDHK@@@###",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "18",
+    "fields": {
+        "description": "CS Produto",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "19",
+    "fields": {
+        "description": "Produto Organizacional 19112",
+        "status": "N"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "20",
+    "fields": {
+        "description": "2211 - PRODUTO",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "21",
+    "fields": {
+        "description": "Sab Produto",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "22",
+    "fields": {
+        "description": "Jaime Produto",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "23",
+    "fields": {
+        "description": "2911 - PROD",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "24",
+    "fields": {
+        "description": "3011 - teste produto",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "25",
+    "fields": {
+        "description": "Product MK",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "26",
+    "fields": {
+        "description": "blablabla",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "27",
+    "fields": {
+        "description": "MK Produto",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "28",
+    "fields": {
+        "description": "teste separa\u00e7\u00e3o endpoint",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "29",
+    "fields": {
+        "description": "Produto 14 Fev 2020",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "30",
+    "fields": {
+        "description": "Produto 18 FEV 20",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "31",
+    "fields": {
+        "description": "Produto 1003",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "32",
+    "fields": {
+        "description": "Produto 1003-2",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "33",
+    "fields": {
+        "description": "Produto 1003-3",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "34",
+    "fields": {
+        "description": "Segmento 23032020 II",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "35",
+    "fields": {
+        "description": "teste 23 Produto update",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "36",
+    "fields": {
+        "description": "Produto 24032020 II",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "37",
+    "fields": {
+        "description": "Produto 07042020 II",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "38",
+    "fields": {
+        "description": "Produto 0804",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "39",
+    "fields": {
+        "description": "Produto 0804 Produto",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "40",
+    "fields": {
+        "description": "Produto Interna 250420",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "41",
+    "fields": {
+        "description": "Produto Externa 250420",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "42",
+    "fields": {
+        "description": "Produto Filial 250420",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "43",
+    "fields": {
+        "description": "Produto Representada 250420",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.product",
+    "pk": "44",
+    "fields": {
+        "description": "Produto 090520",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.electricalgrouping",
+    "pk": "1",
+    "fields": {
+        "description": "Teste Agrupamento Eletrico",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.electricalgrouping",
+    "pk": "2",
+    "fields": {
+        "description": "TesteAgrupamentoEletrico4",
+        "status": "N"
+    }
+},
+{
+    "model": "organization.electricalgrouping",
+    "pk": "3",
+    "fields": {
+        "description": "TesteAgrupamentoEletrico3",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.electricalgrouping",
+    "pk": "4",
+    "fields": {
+        "description": "Teste",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.electricalgrouping",
+    "pk": "5",
+    "fields": {
+        "description": "Teste de Agrupamento El\u00e9trico 2",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.electricalgrouping",
+    "pk": "6",
+    "fields": {
+        "description": "22/03 - AGRUPAMENTO",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.electricalgrouping",
+    "pk": "7",
+    "fields": {
+        "description": "22/03 - AGRUPAMENTO - altera\u00e7\u00e3o",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.electricalgrouping",
+    "pk": "8",
+    "fields": {
+        "description": "Agrup Eletrico 23032020 II",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.electricalgrouping",
+    "pk": "9",
+    "fields": {
+        "description": "Agrup Eletrico 24032020 II",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.electricalgrouping",
+    "pk": "10",
+    "fields": {
+        "description": "29/03 - teste 1 alt",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.electricalgrouping",
+    "pk": "11",
+    "fields": {
+        "description": "29/03 - teste 2 alt 1",
+        "status": "N"
+    }
+},
+{
+    "model": "organization.electricalgrouping",
+    "pk": "12",
+    "fields": {
+        "description": "29/03 IE TEST",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.electricalgrouping",
+    "pk": "13",
+    "fields": {
+        "description": "2903 TEST IE ALT",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.electricalgrouping",
+    "pk": "14",
+    "fields": {
+        "description": "03/04 - test",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.electricalgrouping",
+    "pk": "15",
+    "fields": {
+        "description": "Agrupamento 06/04/20",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.electricalgrouping",
+    "pk": "16",
+    "fields": {
+        "description": "Agrupamento 07042020 II",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.electricalgrouping",
+    "pk": "17",
+    "fields": {
+        "description": "Agrupamento 0804",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.electricalgrouping",
+    "pk": "18",
+    "fields": {
+        "description": "Agrup 08042020",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.electricalgrouping",
+    "pk": "19",
+    "fields": {
+        "description": "Agrup 90420",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.electricalgrouping",
+    "pk": "20",
+    "fields": {
+        "description": "Agrupamento Principal",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.electricalgrouping",
+    "pk": "21",
+    "fields": {
+        "description": "Agrup Interno 250420",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.electricalgrouping",
+    "pk": "22",
+    "fields": {
+        "description": "Agrup Externo 250420",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.electricalgrouping",
+    "pk": "23",
+    "fields": {
+        "description": "Agrup Filial 250420",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.electricalgrouping",
+    "pk": "24",
+    "fields": {
+        "description": "Agrup Representada 250420",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.electricalgrouping",
+    "pk": "25",
+    "fields": {
+        "description": "OS20 - TESTE REG OCORR",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.electricalgrouping",
+    "pk": "26",
+    "fields": {
+        "description": "Agrup. Elet. 090520",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.electricalgrouping",
+    "pk": "27",
+    "fields": {
+        "description": "Agrup 2705 55",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.electricalgrouping",
+    "pk": "90028",
+    "fields": {
+        "description": "Teste TZ",
+        "status": "S"
+    }
+},
+{
+    "model": "organization.organizationaltype",
+    "pk": "1",
+    "fields": {
+        "description": "\u00c1rea Cont\u00e1bil",
+        "table_reference": "ACCOUNTANT_AREA"
+    }
+},
+{
+    "model": "organization.organizationaltype",
+    "pk": "2",
+    "fields": {
+        "description": "Diretoria",
+        "table_reference": "DIRECTOR_BOARD"
+    }
+},
+{
+    "model": "organization.organizationaltype",
+    "pk": "3",
+    "fields": {
+        "description": "Neg\u00f3cio",
+        "table_reference": "BUSINESS"
+    }
+},
+{
+    "model": "organization.organizationaltype",
+    "pk": "4",
+    "fields": {
+        "description": "Produto",
+        "table_reference": "PRODUCT"
+    }
+},
+{
+    "model": "organization.organizationaltype",
+    "pk": "5",
+    "fields": {
+        "description": "Segmento",
+        "table_reference": "SEGMENT"
+    }
+},
+{
+    "model": "organization.organizationaltype",
+    "pk": "6",
+    "fields": {
+        "description": "Agrupamento El\u00e9trico",
+        "table_reference": "ELECTRICAL_GROUPING"
+    }
+}
+]
